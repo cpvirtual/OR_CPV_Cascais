@@ -1,0 +1,300 @@
+
+	Lights	( 14
+	
+			Light	(
+			comment( Sphere of light )
+			Type	( 1 )
+			Conditions	(
+				Headlight ( 2 )
+				Unit ( 5 )
+				)
+			Cycle	( 0 )
+			FadeIn	( 0.5 )
+			FadeOut	( 0.5 )
+			States	(	1
+				State	(
+					Duration ( 0.0 )
+					LightColour ( 55ffffcf )
+					Position ( 0 3.506 -10.926 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 50.0 )
+					Angle ( 20.0 )
+					)
+				)
+			)
+		Light	(
+			comment( Sphere of light )
+			Type	( 1 )
+			Conditions	(
+				Headlight ( 3 )
+				Unit ( 5 )
+				)
+			Cycle	( 0 )
+			FadeIn	( 0.5 )
+			FadeOut	( 0.5 )
+			States	(	1
+				State	(
+					Duration ( 0.0 )
+					LightColour ( 8fffffcf )
+					Position ( 0 3.506 -10.926 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 300.0 )
+					Angle ( 15.0 )
+					)
+				)
+			)
+		Light	(
+			comment( Piloto blanco izquierda dim )
+			Type ( 0 )
+			Conditions	(
+				Headlight ( 4 )
+				Unit ( 5 )
+				)
+			FadeIn	( 0.5 )
+			FadeOut	( 0.5 )
+			Cycle	( 0 )
+			States	(	1
+				State	(
+					Duration ( 0.0 )
+					LightColour ( 88ffffcf )
+					Position ( -0.634 1.882 -12.918 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.25 )
+					)
+				)
+			)
+		Light	(
+			comment( Piloto blanco derecha dim )
+			Type ( 0 )
+			Conditions	(
+				Headlight ( 4 )
+				Unit ( 5 )
+				)
+			FadeIn	( 0.5 )
+			FadeOut	( 0.5 )
+			Cycle	( 0 )
+			States	(	1
+				State	(
+					Duration ( 0.0 )
+					LightColour ( 88ffffcf )
+					Position ( 0.634 1.882 -12.918 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.25 )
+					)
+				)
+			)
+		Light	(
+			comment( Piloto blanco izquierda bright )
+			Type ( 0 )
+			Conditions	(
+				Headlight ( 3 )
+				Unit ( 5 )
+				)
+			FadeIn	( 0.5 )
+			FadeOut	( 0.5 )
+			Cycle	( 0 )
+			States	(	1
+				State	(
+					Duration ( 0.0 )
+					LightColour ( ffffffcf )
+					Position ( -0.634 1.882 -12.918 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.3 )
+					)
+				)
+			)
+		Light	(
+			comment( Piloto blanco derecha bright )
+			Type ( 0 )
+			Conditions	(
+				Headlight ( 3 )
+				Unit ( 5 )
+				)
+			FadeIn	( 0.5 )
+			FadeOut	( 0.5 )
+			Cycle	( 0 )
+			States	(	1
+				State	(
+					Duration ( 0.0 )
+					LightColour ( ffffffcf )
+					Position ( 0.634 1.882 -12.918 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.3 )
+					)
+				)
+			)
+		Light	(
+			comment( Faro blanco derecha dim )
+			Type ( 0 )
+			Conditions	(
+				Headlight ( 4 )
+				Unit ( 5 )
+				)
+			FadeIn	( 0.5 )
+			FadeOut	( 0.5 )
+			Cycle	( 0 )
+			States	(	1
+				State	(
+					Duration ( 0.0 )
+					LightColour ( 88ffffcf )
+					Position ( -0.148 3.506 -10.926 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.3 )
+					)
+				)
+			)
+		Light	(
+			comment( Faro blanco izquierda dim )
+			Type		( 0 )
+			Conditions	(
+				Headlight ( 4 )
+				Unit ( 5 )
+				)
+			FadeIn	( 0.5 )
+			FadeOut	( 0.5 )
+			Cycle	( 0 )
+			States	(	1
+				State	(
+					Duration ( 0.0 )
+					LightColour ( 88ffffcf )
+					Position ( 0.148 3.506 -10.926 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.3 )
+					)
+				)
+			)
+		Light	(
+			comment( Faro blanco derecha bright )
+			Type ( 0 )
+			Conditions	(
+				Headlight ( 3 )
+				Unit ( 5 )
+				)
+			FadeIn	( 0.5 )
+			FadeOut	( 0.5 )
+			Cycle	( 0 )
+			States	(	1
+				State	(
+					Duration ( 0.0 )
+					LightColour ( ffffffff )
+					Position ( -0.148 3.506 -10.926 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.4 )
+					)
+				)
+			)
+		Light	(
+			comment( Faro blanco izquierda bright )
+			Type		( 0 )
+			Conditions	(
+				Headlight ( 3 )
+				Unit ( 5 )
+				)
+			FadeIn	( 0.5 )
+			FadeOut	( 0.5 )
+			Cycle	( 0 )
+			States	(	1
+				State	(
+					Duration ( 0.0 )
+					LightColour ( ffffffff )
+					Position ( 0.148 3.506 -10.926 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.4 )
+					)
+				)
+			)
+		Light (
+			Comment( Delantera izquierda roja dim )
+			Type   ( 0 )
+			Conditions (
+				Headlight ( 2 )
+				Unit ( 3 )
+			        )
+			FadeIn  ( 0.5 )
+			FadeOut ( 0.5 )
+                        Cycle   ( 0 )
+			States  (       1
+				State   (
+					Duration ( 0.0 )
+					LightColour ( ffff0000 )
+					Position ( -0.809 1.884 -12.918 )
+ 					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.3 )
+				)
+			)
+		)
+		Light (
+			Comment( Delantera izquierda roja brigth )
+			Type   ( 0 )
+			Conditions (
+				Headlight ( 3 )
+				Unit ( 3 )
+			        )
+			FadeIn  ( 0.1 )
+			FadeOut ( 0.1 )
+                        Cycle   ( 0 )
+			States  (       1
+				State   (
+					Duration ( 0.0 )
+					LightColour ( ffff0000 )
+					Position ( -0.809 1.884 -12.918 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.3 )
+				)
+			)
+		)
+		Light (
+			Comment( Delantera derecha roja dim )
+			Type   ( 0 )
+			Conditions (
+				Headlight ( 2 )
+				Unit ( 3 )
+			        )
+			FadeIn  ( 0.5 )
+			FadeOut ( 0.5 )
+                        Cycle   ( 0 )
+			States  (       1
+				State   (
+					Duration ( 0.0 )
+					LightColour ( ffff0000 )
+					Position ( 0.809 1.884 -12.918 )
+ 					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.3 )
+				)
+			)
+		)
+		Light (
+			Comment( Delantera derecha roja brigth )
+			Type   ( 0 )
+			Conditions (
+				Headlight ( 3 )
+				Unit ( 3 )
+			        )
+			FadeIn  ( 0.1 )
+			FadeOut ( 0.1 )
+                        Cycle   ( 0 )
+			States  (       1
+				State   (
+					Duration ( 0.0 )
+					LightColour ( ffff0000 )
+					Position ( 0.809 1.884 -12.918 )
+					Azimuth ( 180.0 180.0 180.0 )
+					Transition ( 0 )
+					Radius ( 0.3 )
+				)
+			)
+		)
+	)

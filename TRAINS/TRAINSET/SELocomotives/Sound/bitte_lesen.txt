@@ -1,0 +1,55 @@
+MSTS Soundset für ÖBB/BBÖ BR 1670
+__________________________________
+
+Das Soundset beinhaltet Soundfiles, die ich von der ÖBB Nostalgielok 1670.25 aufgenommen habe. 
+Ich habe mich besonders bemüht, um die Lok möglichst originalgetreu erklingen zu lassen. 
+Das Vorbild ist eine sehr laute Elektrolok, was wahrscheinlich auch daran liegt, dass die 8 Motoren 
+senkrecht im Maschinenraum angeordnet sind. Wenn bei Ihnen zu Hause der Computertisch zu vibrieren 
+anfängt, dann ist das gut so. Das steigert den Realismusgrad. ;-)
+
+Installation:
+
+Vor dem Extrahieren dieses Paketes der originale"Sound"-Verzeichnis der Lok in einen beliebigen Namen umbenennen. 
+Die ursprüngliche Bezeichnung des Ordners, in dem sich der originale Sound-Orner befindet sollte "OEBB_1670_09g" heißen. 
+Nun sollten die Daten in diesen Ordner extrahiert werden. 
+
+Ich habe insgesamt 4 SMS-Dateien beigefügt.
+Die Dateien "oebb1670Vcab.sms" und "oebb1670Veng.sms" sind zu verwenden, wenn man die Lüfter mit der Taste V ein- und  
+ausschalten will. 
+Wenn jemand das nicht will, dann sollte er die Dateien "oebb1670Acab.sms" und oebb1670Aeng.sms" verwenden, 
+damit die Lok nicht ohne Lüfter fährt. Hier startet das Lüftergeräusch automatisch, wenn sich die Lok in Bewegung setzt. 
+
+Je nachdem, welche Variante man benützen will, sollten die SMS-Dateien den Originaldateien im umbenannten Ordner 
+entsprechend umbenannt werden. Die SMS-Dateien, auf die die Lok zugreift sollten "oebb1670_cab.sms" 
+und "oebb1670_eng.sms" heißen, d.h. es müssen lediglich die "A" oder "V" im Dateinamen durch Unterstriche ersetzt werden.
+
+Ich nehme an, die anderen Varianten der 1670 von Kami greifen auf den Sound der 1670.09 zu - also setzen das vorhandensein dieser
+Variante voraus. Sollte das nicht so sein, dann müssen Sie diese Vorgänge auch bei den anderen Lok-Ordnern durchführen.
+
+Mögliche Probleme:
+
+Die geschwindigkeitsabhängigen Maschinengeräusche sind allesamt in einem höheren Geschwindigkeitsbereich 
+aufgenommen worden, und werden beim vorliegenden Soundpaket überwiegend zu tieferen Tonlagen hin verstimmt.
+Einige Soundkarten können solche Klänge nicht korrekt wiedergeben, und es führt zu sehr unrealistischen Klangergebnissen.
+Wenn die Lok beim Beschleunigen so klingt, als würde sich die Drehzahl nicht oder nur Stufenweise erhöhen, 
+dann haben Sie wahrscheinlich so eine Problemkarte.
+
+In so einem Fall sollten Sie die Hardwarebeschleunigung der Soundkarte deaktivieren, denn dann werden die Klänge so wiedergegeben, 
+wie es der MSTS berechnet, und die Geräusche werden realistisch klingen.
+Gleichzeitig werden viele andere Loks im MSTS auch viel realistischer klingen.
+
+Das Deaktivieren der Hardwarebeschleunigung können sie auf Windows XP folgendermaßen durchführen:
+
+Klicken sie mit der rechten MT auf das Lautsprechersymbol in der Taskleiste und mit der linken MT auf das erscheinende Feld 
+"Audioeigenschaften einstellen". Im nun geöffneten Fenster unter Lautsprechereinstellungen auf Erweitert klicken und im 
+neuen Fenster die Registerkarte "Systemleistung" auswählen.
+Hier ist jetzt ein Schieberegler für die Hardwarebeschleunigung. Wenn Sie diesen nach ganz links ziehen ist die Hardwarebeschleunigung
+der Soundkarte komplett deaktiviert.
+Danach die Fenster mit OK schließen.
+
+Ich wünsche viel Spaß mit den neuen Klängen!
+
+Hyglo ( e-mail: hyglom@gmx.at )
+
+ 
+

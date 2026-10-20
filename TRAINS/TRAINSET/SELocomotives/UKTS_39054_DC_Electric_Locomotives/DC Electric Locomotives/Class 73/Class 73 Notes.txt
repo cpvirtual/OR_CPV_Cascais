@@ -1,0 +1,71 @@
+
+73002_E_AP  Class 73/0 Electric Power, Air Passenger Brakes, Automatic Throttle
+
+73002_E_AG  Class 73/0 Electric Power, Air Goods Brakes, Manual Throttle
+
+73002_E_EPB  Class 73/0 Electric Power, EP brakes
+
+73002_E_VB  Class 73/0 Electric Power, Vacuum "Braked", Automatic Throttle
+
+73002_E_VU  Class 73/0 Electric Power, Vacuum "Unbraked", Manual Throttle
+
+73002_D_AP  Class 73/0 Diesel Power, Air Passenger Brakes
+
+73002_D_EPB  Class 73/0 Diesel Power, EP brakes
+
+73002_D_AG  Class 73/0 Diesel Power, Air Goods Brakes
+
+73002_D_VB  Class 73/0 Diesel Power, Vacuum "Braked"
+
+73002_D_VU  Class 73/0 Diesel Power, Vacuum "Unbraked"
+
+
+73119_E_AP  Class 73/1 Electric Power, Air Passenger Brakes, Automatic Throttle
+
+73119_E_AG  Class 73/1 Electric Power, Air Goods Brakes, Manual Throttle
+
+73119_E_EPB  Class 73/1 Electric Power, EP brakes
+
+73119_E_VB  Class 73/1 Electric Power, Vacuum "Braked", Automatic Throttle
+
+73119_E_VU  Class 73/1 Electric Power, Vacuum "Unbraked", Manual Throttle
+
+73119_D_AP  Class 73/1 Diesel Power, Air Passenger Brakes
+
+73119_D_AG  Class 73/1 Diesel Power, Air Goods Brakes
+
+73119_D_EPB  Class 73/1 Diesel Power, EP brakes
+
+73119_D_VB  Class 73/1 Diesel Power, Vacuum "Braked"
+
+73119_D_VU  Class 73/1 Diesel Power, Vacuum "Unbraked"
+
+
+
+
+You will need to adjust MaxForce ( 20000lbf ) so that current is appropriate on ammeter. With automatic throttle current should max about 1700 A.
+
+When working on electric power control resistance flag should show as follows:
+
+For manual throttle all throttle positions above 0% and below 40% and all throttle positions above 50% and below 90%.
+
+(In other words resistance flag only clears at OFF and at running notches 40%-50% and 90%-100% - see driving instructions in eng file.)
+
+For automatic throttle: 
+
+Class 73/0
+
+Notch 1 3% - resistance flag appears at all speeds
+
+Notch 2 40% - resistance flag appears at speeds 0 to 12 mph
+
+Notch 3 90% and Notch 4 100% - resistance flag appears at speeds 0 to 12 mph and 13 to 20 mph
+
+Class 73/1
+
+Notch 1 3% - resistance flag appears at all speeds
+
+Notch 2 40% - resistance flag appears at speeds 0 to 13 mph
+
+Notch 3 90% and Notch 4 100% - resistance flag appears at speeds 0 to 13 mph and 15 to 23 mph
+

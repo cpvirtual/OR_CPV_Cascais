@@ -1,0 +1,150 @@
+Class 71
+
+E5000_AG Class 71, Air Goods brakes
+
+E5000_AP Class 71, Air Passenger brakes
+
+E5000_VB Class 71, "Vacuum braked"
+
+E5000_AG Class 71, "Vacuum unbraked"
+
+class71bcab.sms / class71beng.sms modified sounds to try to include booster set
+
+
+Class 73
+
+73002_E_AP  Class 73/0 Electric Power, Air Passenger Brakes, Automatic Throttle
+
+73002_E_AG  Class 73/0 Electric Power, Air Goods Brakes, Manual Throttle
+
+73002_E_EPB  Class 73/0 Electric Power, EP brakes
+
+73002_E_VB  Class 73/0 Electric Power, Vacuum "Braked", Automatic Throttle
+
+73002_E_VU  Class 73/0 Electric Power, Vacuum "Unbraked", Manual Throttle
+
+73002_D_AP  Class 73/0 Diesel Power, Air Passenger Brakes
+
+73002_D_EPB  Class 73/0 Diesel Power, EP brakes
+
+73002_D_AG  Class 73/0 Diesel Power, Air Goods Brakes
+
+73002_D_VB  Class 73/0 Diesel Power, Vacuum "Braked"
+
+73002_D_VU  Class 73/0 Diesel Power, Vacuum "Unbraked"
+
+73119_E_AP  Class 73/1 Electric Power, Air Passenger Brakes, Automatic Throttle
+
+73119_E_AG  Class 73/1 Electric Power, Air Goods Brakes, Manual Throttle
+
+73119_E_EPB  Class 73/1 Electric Power, EP brakes
+
+73119_E_VB  Class 73/1 Electric Power, Vacuum "Braked", Automatic Throttle
+
+73119_E_VU  Class 73/1 Electric Power, Vacuum "Unbraked", Manual Throttle
+
+73119_D_AP  Class 73/1 Diesel Power, Air Passenger Brakes
+
+73119_D_AG  Class 73/1 Diesel Power, Air Goods Brakes
+
+73119_D_EPB  Class 73/1 Diesel Power, EP brakes
+
+73119_D_VB  Class 73/1 Diesel Power, Vacuum "Braked"
+
+73119_D_VU  Class 73/1 Diesel Power, Vacuum "Unbraked"
+
+
+
+Class 74 (see class 71 regarding electric sounds)
+
+74010_E_AP  Class 74 Electric Power, Air Passenger Brakes
+
+74010_E_AG  Class 74 Electric Power, Air Goods Brakes
+
+74010_E_EPB  Class 74 Electric Power, EP brakes
+
+74010_E_VB  Class 74 Electric Power, Vacuum "Braked"
+
+74010_E_VU  Class 74 Electric Power, Vacuum "Unbraked"
+
+74010_D_AP  Class 74 Diesel Power, Air Passenger Brakes
+
+74010_D_EPB  Class 74 Diesel Power, EP brakes
+
+74010_D_AG  Class 74 Diesel Power, Air Goods Brakes
+
+74010_D_VB  Class 74 Diesel Power, Vacuum "Braked"
+
+74010_D_VU  Class 74 Diesel Power, Vacuum "Unbraked"
+
+
+Class 76
+
+DD_CLASS_76_6000_VB prototype EM1 6000/26000 Vacuum "Braked"
+
+DD_CLASS_76_6000_VU prototype EM1 6000/26000 Vacuum "Unbraked"
+
+DD_CLASS_76_26002_VB vacuum braked class 76 without boiler, Vacuum "Braked"
+
+DD_CLASS_76_26002_VU vacuum braked class 76 without boiler, Vacuum "Unbraked"
+
+DD_CLASS_76_26046_VB vacuum braked class 76 with boiler, Vacuum "Braked"
+
+DD_CLASS_76_26046_VU vacuum braked class 76 with boiler, Vacuum "Unbraked"
+
+DD_CLASS_76_76016_VB dual braked class 76, Vacuum "Braked"
+
+DD_CLASS_76_76016_VU dual braked class 76, Vacuum "Unbraked"
+
+DD_CLASS_76_76016_AP dual braked class 76, Air Passenger brakes
+
+DD_CLASS_76_76016_AP dual braked class 76, Air Goods brakes
+
+
+Class 77
+
+DD_CLASS_77_27000_VB class 77 Vacuum "Braked"
+
+DD_CLASS_77_27000_VB class 77 Vacuum "Unbraked"
+
+
+OR cab upgrade patch for use with EM1/EM2 cab
+
+6000.cvf - for prototype EM1 6000 / 26000 'Tommy'
+EM1.cvf - for EM1 / class 76 with original vacuum brakes only
+EM2.cvf - for EM2 / class 77
+class76a.cvf - for dual braked class 76 locos using air brakes
+class76v.cvf - for dual braked class 76 locos using vacuum brakes
+
+
+Class EF1
+
+DD_CLASS_EF1_4
+
+EF1eng.sms and EF1cab.sms modified sounds to replace modern horn with Scotsman whistle.
+
+
+District Railway
+
+District_2A     
+
+
+Metropolitan Railway 
+
+LT_SarahSiddons_2013A   1921 MV loco as preserved with modern air brake controller
+
+LT_SarahSiddons_A  1921 MV loco using Westinghouse brake
+
+LT_SarahSiddons_V  1921 MV loco using Vacuum brake
+
+
+LU Battery Loco
+
+LUBatteryLoco23  LU Battery Loco using third and fourth rail
+
+LUBatteryLoco23b  LU Batter Loco using battery
+
+
+x_Class CC1
+
+contains eng files for CC1 and 20003

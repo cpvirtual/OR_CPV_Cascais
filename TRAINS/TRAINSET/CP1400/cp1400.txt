@@ -1,0 +1,26 @@
+CP 1400
+Locomotiva Diesel-eléctrica (English Electric/Sorefame)
+Série 1401/1467
+
+v2.2  13OUT2009
+
+Dados técnicos/Technical data:
+Distance levels: 2000
+
+CP1401, CP1404, CP1444 (laranja/orange) - 7244 polys
+CP1422, CP1424, CP1453 (azul/blue) - 6840 polys
+
+Modelos criados com / Models created with: Train Sim Modeler
+Texturas criadas com / Textures done with: Adobe Photoshop 7.1
+
+MSTS BIN COMPATIBLE
+
+==================================================================
+Autores e Contactos - Author and contacts
+Model: Eugénio Santos - CP Virtual ©2008
+Texturas: Eugénio Santos, Nelso Silva - CP Virtual ©2008
+
+www.cpvirtual.org
+cpvirtual@gmail.org
+
+==================================================================
