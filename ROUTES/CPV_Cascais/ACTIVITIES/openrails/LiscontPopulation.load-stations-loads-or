@@ -1,0 +1,21 @@
+{
+	"ContainerStationsPopulation": [ 
+	
+		{
+			"LoadStationID" : { "wfile" : "w-006643+014250.w", "UiD" :  2272, },
+			"LoadData" : [ 
+				{ "File" : "40H_evergreen", "Folder" : "CPV.containerdata", "StackLocation" : 0, },
+				{ "File" : "40_seatrain", "Folder" : "CPV.containerdata", "StackLocation" : 0, },
+				{ "File" : "40H_capital", "Folder" : "CPV.containerdata", "StackLocation" : 0, },
+				{ "File" : "40H_maersk", "Folder" : "CPV.containerdata", "StackLocation" : 1, },
+				{ "File" : "40H_apl", "Folder" : "CPV.containerdata", "StackLocation" : 1, },
+				{ "File" : "20_msc", "Folder" : "CPV.containerdata", "StackLocation" : 2, },
+				{ "File" : "20_pon", "Folder" : "CPV.containerdata", "StackLocation" : 2, },
+				{ "File" : "20_msc", "Folder" : "CPV.containerdata", "StackLocation" : 2, },
+				{ "File" : "40_genstar", "Folder" : "CPV.containerdata", "StackLocation" : 3, },
+				{ "File" : "20_nedlloyd", "Folder" : "CPV.containerdata", "StackLocation" : 14, },
+				{ "File" : "20_maersk", "Folder" : "CPV.containerdata", "StackLocation" : 14, },
+			]	
+		},
+	]
+}

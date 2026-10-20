@@ -1,0 +1,32 @@
+The size of the stacking area for a 40ft container:
+X = 4.199 X = 25.951,
+Z = -139.5 Z = 139.5
+The value of X is 3 meters from the track center on one side and 2 meters from the crane axis on the other sides.
+
+
+For the following matrix, the offset on the Z axis is 13,306.
+The 40-foot containers are spaced 1 meter in the Z direction and 3 meters in the X direction. This distance
+allows the
+for the recovery of road vehicles for loading.
+
+  X     Y     Z
+4.199 0.325 139.5
+9.637 0.325 139.5
+15.075 0.325 139.5
+20.513 0.325 139.5
+25.951 0.325 139.5
+
+4.199 0.325 126,194
+9.637 0.325 126,194
+15.075 0.325 126,194
+20.513 0.325 126,194
+25.951 0.325 126,194
+
+4.199 0.325 112,888
+9.637 0.325 112,888
+15.075 0.325 112,888
+20.513 0.325 112,888
+25.951 0.325 112,888
+
+The matrix can be continued up to -139.5, or even some elements can be omitted randomly.
+

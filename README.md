@@ -42,13 +42,9 @@ By acessing and cloning this repository on your local PC you agree to:
 Versão: 1.2
 Data: 9-11-2026
 
-Inclui Material Circulante:
+Inclui Material Circulante - Includes Rolling stock:
 CP3250, CP3150 e Automotora Eléctrica Série ABm1 a ABM7 de 1926
-Inclui 15 Actividades.
 
-Includes Rolling stock: 
-CP3250, CP3150 and trainset Series ABm1 to ABM7 from 1926
-Includes 15 activities
 ==================================================================
 
 CP Virtual ©2026
@@ -89,6 +85,7 @@ Créditos Adicionais - Adicional Credits
 		and colaborators for Xtracks
 
 Software Necessário - Needed Software
+
 	Xtracks 3.6 ou mais recente
 	New Roads V3 Std ou mais recente
 	

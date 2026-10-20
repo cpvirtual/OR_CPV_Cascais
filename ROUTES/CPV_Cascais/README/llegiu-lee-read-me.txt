@@ -1,0 +1,91 @@
+=============================================================
+Quercus ilex                                      v. beta 0.1
+
+Català:   Alzina
+Euskara:  Arte
+Español:  Encina 
+Français: Chêne vert
+English:  Holm-oak, ilex
+Deutsch:  Steineiche
+=============================================================
+Dos arbres. Textures d'estiu i tardor a 512 x 512
+Alzina 0: altura 12.5 m
+Alzina 1: altura 12.2 m
+
+Fotografies: Carles Romero "Brill"
+Textures:    Jordi Hernàndez i Carles Romero
+Fitxer .s:   Carles Romero
+
+Aquestes peces de software per a Microsoft Train Simulator es
+declaren com a freeware. El copyright i demés drets correspon 
+als  autors  i no podreu fer-ne modificacions, ni en els fit-
+xers .s  (shape)  ni en els de textures (.ace), si no obteniu
+abans el permís explícit dels autors.
+
+Podreu  incorporar  aquestes  peces de software a les vostres
+rutes sempre que es compleixin aquestes tres condicions:
+ 1. La ruta ha de ser, també, freeware i no se n'ha d'aconse-
+    guir cap rendiment econòmic de la seva distribució.
+ 2. El read-me o equivalent de la ruta ha de mencionar explí-
+    citament la autoria d'aquestes peces.
+ 3. La  distribució  de la ruta ha d'incorporar aquest fitxer
+    'llegiu-lee-read-me.txt' sense alteració.
+
+(c) Jordi  Hernàndez <JHP-RGF@telefonica.net> i Carles Romero
+    <cromero@pie.xtec.es>. Granollers - La Garriga, al Vallès
+    Oriental, estiu de 2003
+=============================================================
+Dos árboles. Texturas de verano y otoño a 512 x 512
+Encina 0: altura 12.5 m
+Encina 1: altura 12.2 m
+
+Fotografías: Carles Romero "Brill"
+Texturas:    Jordi Hernàndez y Carles Romero
+Fichero .s:  Carles Romero
+
+Estas  piezas  de  software para Microsoft Train Simulator se
+declaran  como freeware. El copyright y otros derechos perte-
+necen  a los autores y no se permite hacer modificaciones, ni
+a  los ficheros .s (shape) ni a los de texturas (.ace), si no
+se obtiene el permiso explícito de los autores.
+
+Se  pueden  incorporar  estas  piezas  de software a una ruta
+siempre que se cumplan estas tres condiciones:
+ 1. La ruta ha de ser, también, freeware y no se ha de conse-
+    guir ningún rendimiento económico de su distribución.
+ 2. El read-me o equivalente de la ruta ha de mencionar explí-
+    citamente la autoría de estas piezas.
+ 3. La  distribución  de la ruta ha de incorporar este fichero
+    'llegiu-lee-read-me.txt' sin alteración de ningún tipo.
+
+(c) Jordi  Hernàndez <JHP-RGF@telefonica.net> y Carles Romero
+    <cromero@pie.xtec.es>. Granollers - La Garriga, al Vallès
+    Oriental, Cataluña, verano de 2003
+=============================================================
+Two trees. Summer and Autumn textures at 512 x 512
+Holm-oak 0: 12.5 m height
+Holm-oak 1: 12.2 m height
+
+Pictures: Carles Romero "Brill"
+Textures: Jordi Hernàndez & Carles Romero
+.s file:  Carles Romero
+
+These software pieces for Microsoft Train Simulator are free-
+ware.  Copyright and other rights belong to authors. You can-
+not  modify them nor the shape files (.s) nor the texture fi-
+les (.ace) without the authors explicit permission.
+
+You may use these software pieces in building your route pro-
+vided these three conditions are acomplished:
+ 1. The  route must be also freeware. You cannot get any eco-
+    nomic benefit since its distribution.
+ 2. The route read-me or similar file must make explicit men-
+    tion of these pieces authorship.
+ 3. The route distributio must incorporate this 'llegiu-lee-
+    read-me.txt' file without any change.
+
+(c) Jordi  Hernàndez <JHP-RGF@telefonica.net> & Carles Romero
+    <cromero@pie.xtec.es>. Granollers - La Garriga, al Vallès
+    Oriental, Catalonia, Spain, summer of 2003
+=============================================================
+

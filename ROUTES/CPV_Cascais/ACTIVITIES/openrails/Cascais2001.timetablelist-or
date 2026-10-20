@@ -1,0 +1,13 @@
+# CASCAIS 2001
+#==============================Passageiros
+hv01-ascendentes.timetable_or
+hv01-descendentes.timetable_or
+hv01-ponte.timetable_or
+#==============================Mercadorias
+#hv01-mercadorias.timetable-or
+#==============================Rotacoes e manobras
+#hv01-rotacoes.timetable-or
+hv01-especiais.timetable_or
+#==============================Estaticos
+#hv01-static.timetable-or
+hv01-observadores.timetable_or
