@@ -1,0 +1,44 @@
+Willie Lott's Cottage  (Version 1.0) - Copyright (C) Jur Snijder 2003
+---------------------------------------------------------------------------------------
+
+How to install:
+
+Unzip the contents of this archive into a temporary folder. Move the *.S and *.SD files into the 'Shapes' subfolder of your Route folder. Move the *.ACE file into the Textures subfolder of your Route folder, move the contents of the 'Snow' folder into the 'Snow' folder of the Textures folder and move the contents of the 'Night' folder into the 'Night' folder of the Textures folder. Place the following lines in the *.REF file of your Route:
+
+Static (
+    Class           ( Buildings )
+    Filename        ( SW_Haywain.s )
+    Align           ( None )
+    Description     ( SW_Haywain )
+        )
+
+The model can now be placed in your route using the Route Editor.
+-------------------------------------------------------------------------------------------
+
+The Model:
+
+The model was built and textured in 2003 by Jur Snijder using Abacus Train Sim Modeler, based on Willie Lott's cottage featuring in the painting 'The Haywain' by Constable and photographs of the cottage as it looks today. It will look best on the banks of a shallow stream in Suffolk... 
+
+The model contains approx. 220 polygons, reduced to 77 beyond 400 m.
+
+
+-------------------------------------------------------------------------------------------
+
+
+Copyright and Disclaimer:
+
+This model and the texture file are Freeware, and may be freely distributed as long as all the files in this archive are kept together.  The model, texture file and additional data may NOT be sold or licensed for payment. Copyright remains firmly vested with the maker, and it is not allowed to make any modifications to the files contained in this archive, including re-skins, without explicit prior permission from the author. 
+
+Installation and use of the files in this archive is entirely at your own risk, and the author accepts no responsibility whatsoever for any hardware damage, software corruption or loss of data that may result from the use of this software. If you are unsure on how to create folders and carry out basic file manipulations you are strongly advised to seek qualified assistance before attempting to install the files contained in this archive.
+----------------------------------------------------------------------------------------
+
+To contact the author:
+
+I can be contacted via email (snijderj@btinternet.com), and would very much appreciate any comments, suggestions or questions you may have regarding this model.
+-------------------------------------------------------------------------------------------
+
+Version history:
+
+V 1.0: initial release (May 2003). 
+
+
