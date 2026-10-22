@@ -1,0 +1,2954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:tsre="urn:tsre5:geo-places:1">
+    <Document>
+        <name>TSRE country places: PT</name>
+        <ExtendedData>
+            <tsre:formatVersion>1</tsre:formatVersion>
+            <tsre:countryCode>PT</tsre:countryCode>
+        </ExtendedData>
+        <Placemark>
+            <name>Vila Franca de Xira</name>
+            <ExtendedData>
+                <tsre:placeId>2261639</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>18355</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.98966000,38.95525000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Vialonga</name>
+            <ExtendedData>
+                <tsre:placeId>2261697</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>16088</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.07805000,38.87206000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Torres Vedras</name>
+            <ExtendedData>
+                <tsre:placeId>2262581</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>24443</tsre:population>
+                <tsre:alias>Lapangan Terbang Santa Cruz</tsre:alias>
+                <tsre:alias>Tores Vedrasas</tsre:alias>
+                <tsre:alias>Torresh</tsre:alias>
+                <tsre:alias>Torresh-Vedrash</tsre:alias>
+                <tsre:alias>Torrish-Vedrash</tsre:alias>
+                <tsre:alias>Turres Veteres</tsre:alias>
+                <tsre:alias>tuo lei si wei de la shen</tsre:alias>
+                <tsre:alias>twrs wdras</tsre:alias>
+                <tsre:alias>Торреш</tsre:alias>
+                <tsre:alias>Торреш-Ведраш</tsre:alias>
+                <tsre:alias>Торриш-Ведраш</tsre:alias>
+                <tsre:alias>تورس ودراس</tsre:alias>
+                <tsre:alias>ტორეშ-ვედრაში</tsre:alias>
+                <tsre:alias>托雷斯韋德拉什</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.25860000,39.09109000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Torres Novas</name>
+            <ExtendedData>
+                <tsre:placeId>2262582</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>15002</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.54348000,39.47581000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Tomar</name>
+            <ExtendedData>
+                <tsre:placeId>2262644</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>19168</tsre:population>
+                <tsre:alias>Sellium</tsre:alias>
+                <tsre:alias>tomara</tsre:alias>
+                <tsre:alias>tomaru</tsre:alias>
+                <tsre:alias>tuo ma er</tsre:alias>
+                <tsre:alias>twmar</tsre:alias>
+                <tsre:alias>twmʼr</tsre:alias>
+                <tsre:alias>tʼomari</tsre:alias>
+                <tsre:alias>Томар</tsre:alias>
+                <tsre:alias>טומאר</tsre:alias>
+                <tsre:alias>تومار</tsre:alias>
+                <tsre:alias>तोमर</tsre:alias>
+                <tsre:alias>ტომარი</tsre:alias>
+                <tsre:alias>トマール</tsre:alias>
+                <tsre:alias>托馬爾</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.40924000,39.60199000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Tavira</name>
+            <ExtendedData>
+                <tsre:placeId>2262744</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>15133</tsre:population>
+                <tsre:alias>Tabira</tsre:alias>
+                <tsre:alias>Tavira Municipality</tsre:alias>
+                <tsre:alias>ta wei la</tsre:alias>
+                <tsre:alias>tavuira</tsre:alias>
+                <tsre:alias>tawyra</tsre:alias>
+                <tsre:alias>Ταβίρα</tsre:alias>
+                <tsre:alias>Тавира</tsre:alias>
+                <tsre:alias>Тавіра</tsre:alias>
+                <tsre:alias>تاویرا</tsre:alias>
+                <tsre:alias>ტავირა</tsre:alias>
+                <tsre:alias>タヴィラ</tsre:alias>
+                <tsre:alias>塔維拉</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.64861000,37.12734000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Sintra</name>
+            <ExtendedData>
+                <tsre:placeId>2262912</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>26193</tsre:population>
+                <tsre:alias>Cintra</tsre:alias>
+                <tsre:alias>shintora</tsre:alias>
+                <tsre:alias>sing tra</tsre:alias>
+                <tsre:alias>sinteula</tsre:alias>
+                <tsre:alias>sintʼra</tsre:alias>
+                <tsre:alias>siൻtra</tsre:alias>
+                <tsre:alias>syntra</tsre:alias>
+                <tsre:alias>syntrh</tsre:alias>
+                <tsre:alias>xin te la</tsre:alias>
+                <tsre:alias>Σίντρα</tsre:alias>
+                <tsre:alias>Синтра</tsre:alias>
+                <tsre:alias>Сінтра</tsre:alias>
+                <tsre:alias>Սինտրա</tsre:alias>
+                <tsre:alias>סינטרה</tsre:alias>
+                <tsre:alias>سينترا</tsre:alias>
+                <tsre:alias>سینترا</tsre:alias>
+                <tsre:alias>സിൻട്ര</tsre:alias>
+                <tsre:alias>ซิงตรา</tsre:alias>
+                <tsre:alias>სინტრა</tsre:alias>
+                <tsre:alias>シントラ</tsre:alias>
+                <tsre:alias>辛特拉</tsre:alias>
+                <tsre:alias>신트라</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.37826000,38.80097000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Sesimbra</name>
+            <ExtendedData>
+                <tsre:placeId>2262957</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>41134</tsre:population>
+                <tsre:alias>Cezimbra</tsre:alias>
+                <tsre:alias>Сесимбра</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.10149000,38.44451000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Setúbal</name>
+            <ExtendedData>
+                <tsre:placeId>2262963</tsre:placeId>
+                <tsre:asciiName>Setubal</tsre:asciiName>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>118166</tsre:population>
+                <tsre:alias>Caetobriga</tsre:alias>
+                <tsre:alias>Setoumpal</tsre:alias>
+                <tsre:alias>Setubala</tsre:alias>
+                <tsre:alias>Setubalis</tsre:alias>
+                <tsre:alias>sai tu ba er</tsre:alias>
+                <tsre:alias>setoubaru</tsre:alias>
+                <tsre:alias>stwbal</tsre:alias>
+                <tsre:alias>stwbl</tsre:alias>
+                <tsre:alias>sux tu bal</tsre:alias>
+                <tsre:alias>sytwbal</tsre:alias>
+                <tsre:alias>Σετούμπαλ</tsre:alias>
+                <tsre:alias>Сетубал</tsre:alias>
+                <tsre:alias>סטובל</tsre:alias>
+                <tsre:alias>ستوبال</tsre:alias>
+                <tsre:alias>سيتوبال</tsre:alias>
+                <tsre:alias>سیتوبال</tsre:alias>
+                <tsre:alias>सेतुबल</tsre:alias>
+                <tsre:alias>সেতুবাল</tsre:alias>
+                <tsre:alias>ਸੇਤੁਬਾਲ</tsre:alias>
+                <tsre:alias>ซือตูบัล</tsre:alias>
+                <tsre:alias>სეტუბალი</tsre:alias>
+                <tsre:alias>ሴቱባል</tsre:alias>
+                <tsre:alias>セトゥーバル</tsre:alias>
+                <tsre:alias>塞图巴尔</tsre:alias>
+                <tsre:alias>세투발</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.88820000,38.52440000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Sete Rios</name>
+            <ExtendedData>
+                <tsre:placeId>2262968</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>23261</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.16133000,38.74134000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>São Martinho</name>
+            <ExtendedData>
+                <tsre:placeId>2263284</tsre:placeId>
+                <tsre:asciiName>Sao Martinho</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>26482</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-16.93843000,32.64480000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>São João da Talha</name>
+            <ExtendedData>
+                <tsre:placeId>2263326</tsre:placeId>
+                <tsre:asciiName>Sao Joao da Talha</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>18925</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.09719000,38.82378000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>São Domingos de Rana</name>
+            <ExtendedData>
+                <tsre:placeId>2263352</tsre:placeId>
+                <tsre:asciiName>Sao Domingos de Rana</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>46718</tsre:population>
+                <tsre:alias>Domingos De Rana</tsre:alias>
+                <tsre:alias>Sao Domingos</tsre:alias>
+                <tsre:alias>São Domingos</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.34083000,38.70194000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Santo António</name>
+            <ExtendedData>
+                <tsre:placeId>2263432</tsre:placeId>
+                <tsre:asciiName>Santo Antonio</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>25940</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-16.93482000,32.66138000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Santarém</name>
+            <ExtendedData>
+                <tsre:placeId>2263480</tsre:placeId>
+                <tsre:asciiName>Santarem</tsre:asciiName>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>29385</tsre:population>
+                <tsre:alias>Santaren</tsre:alias>
+                <tsre:alias>Scalabis</tsre:alias>
+                <tsre:alias>sanitareም</tsre:alias>
+                <tsre:alias>santarema</tsre:alias>
+                <tsre:alias>santarm</tsre:alias>
+                <tsre:alias>santaryn</tsre:alias>
+                <tsre:alias>satarema</tsre:alias>
+                <tsre:alias>Σανταρέμ</tsre:alias>
+                <tsre:alias>Сантарен</tsre:alias>
+                <tsre:alias>سانتارم</tsre:alias>
+                <tsre:alias>سانتارين</tsre:alias>
+                <tsre:alias>सांतारेम</tsre:alias>
+                <tsre:alias>সান্তারেম</tsre:alias>
+                <tsre:alias>ਸੰਤਾਰੇਮ</tsre:alias>
+                <tsre:alias>ሳንታረም</tsre:alias>
+                <tsre:alias>サンタレン</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.68617000,39.23379000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Santa Iria da Azóia</name>
+            <ExtendedData>
+                <tsre:placeId>2263523</tsre:placeId>
+                <tsre:asciiName>Santa Iria da Azoia</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>18573</tsre:population>
+                <tsre:alias>Santa Iria</tsre:alias>
+                <tsre:alias>Santa Iria de Azoia</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.09908000,38.84110000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Sacavém</name>
+            <ExtendedData>
+                <tsre:placeId>2263667</tsre:placeId>
+                <tsre:asciiName>Sacavem</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>17718</tsre:population>
+                <tsre:alias>Sacaben</tsre:alias>
+                <tsre:alias>Sacabis</tsre:alias>
+                <tsre:alias>Sacabén</tsre:alias>
+                <tsre:alias>Sakavain</tsre:alias>
+                <tsre:alias>Sakavem</tsre:alias>
+                <tsre:alias>Sakaven</tsre:alias>
+                <tsre:alias>Sakaven'</tsre:alias>
+                <tsre:alias>Sakavena</tsre:alias>
+                <tsre:alias>Sakavenas</tsre:alias>
+                <tsre:alias>sa ka wen</tsre:alias>
+                <tsre:alias>sakavuen</tsre:alias>
+                <tsre:alias>sakawm</tsre:alias>
+                <tsre:alias>shqban</tsre:alias>
+                <tsre:alias>Σακαβέμ</tsre:alias>
+                <tsre:alias>Сакавен</tsre:alias>
+                <tsre:alias>Сакавень</tsre:alias>
+                <tsre:alias>ساکاوم</tsre:alias>
+                <tsre:alias>شقبان</tsre:alias>
+                <tsre:alias>საკავენი</tsre:alias>
+                <tsre:alias>サカヴェン</tsre:alias>
+                <tsre:alias>萨卡文</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.10801000,38.79202000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Rio de Mouro</name>
+            <ExtendedData>
+                <tsre:placeId>2263827</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>54695</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.32804000,38.76613000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ramada</name>
+            <ExtendedData>
+                <tsre:placeId>2264087</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>17535</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.18770000,38.80368000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Queluz</name>
+            <ExtendedData>
+                <tsre:placeId>2264268</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>103399</tsre:population>
+                <tsre:alias>Kelouz</tsre:alias>
+                <tsre:alias>Kelusas</tsre:alias>
+                <tsre:alias>Kelush</tsre:alias>
+                <tsre:alias>Keluzh</tsre:alias>
+                <tsre:alias>Queluz i Portugal</tsre:alias>
+                <tsre:alias>ke lu shen</tsre:alias>
+                <tsre:alias>kerushu</tsre:alias>
+                <tsre:alias>kwylwz</tsre:alias>
+                <tsre:alias>kywylz  prtghal</tsre:alias>
+                <tsre:alias>Κελούζ</tsre:alias>
+                <tsre:alias>Келуж</tsre:alias>
+                <tsre:alias>Келуш</tsre:alias>
+                <tsre:alias>קואלוז'</tsre:alias>
+                <tsre:alias>كويلوز</tsre:alias>
+                <tsre:alias>کیوئلز، پرتغال</tsre:alias>
+                <tsre:alias>კელუში</tsre:alias>
+                <tsre:alias>ケルシュ</tsre:alias>
+                <tsre:alias>克盧什</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.25451000,38.75657000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Quelfes</name>
+            <ExtendedData>
+                <tsre:placeId>2264269</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>17253</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.82158000,37.06003000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Quarteira</name>
+            <ExtendedData>
+                <tsre:placeId>2264299</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>24420</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.10064000,37.06946000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Póvoa de Santa Iria</name>
+            <ExtendedData>
+                <tsre:placeId>2264359</tsre:placeId>
+                <tsre:asciiName>Povoa de Santa Iria</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>28901</tsre:population>
+                <tsre:alias>Povoa</tsre:alias>
+                <tsre:alias>Povoa Santa Iria</tsre:alias>
+                <tsre:alias>Povoa de Martinho</tsre:alias>
+                <tsre:alias>Povoa do Tojal</tsre:alias>
+                <tsre:alias>Povua-de-Santa-Irija</tsre:alias>
+                <tsre:alias>Póvoa</tsre:alias>
+                <tsre:alias>Póvoa Santa Iria</tsre:alias>
+                <tsre:alias>Póvoa do Tojal</tsre:alias>
+                <tsre:alias>Повуа-де-Санта-Ирия</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.06453000,38.86101000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Porto de Mós</name>
+            <ExtendedData>
+                <tsre:placeId>2264428</tsre:placeId>
+                <tsre:asciiName>Porto de Mos</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>23648</tsre:population>
+                <tsre:alias>Porto Moz</tsre:alias>
+                <tsre:alias>Porto de Moz</tsre:alias>
+                <tsre:alias>Porto de Móz</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.68366000,37.08534000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Portimão</name>
+            <ExtendedData>
+                <tsre:placeId>2264456</tsre:placeId>
+                <tsre:asciiName>Portimao</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>38487</tsre:population>
+                <tsre:alias>PRM</tsre:alias>
+                <tsre:alias>Portiman</tsre:alias>
+                <tsre:alias>Vila Nova de Portimao</tsre:alias>
+                <tsre:alias>Vila Nova de Portimão</tsre:alias>
+                <tsre:alias>Портиман</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.53775000,37.13856000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Portalegre</name>
+            <ExtendedData>
+                <tsre:placeId>2264508</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>22368</tsre:population>
+                <tsre:alias>Portalegri</tsre:alias>
+                <tsre:alias>bwrtalyghry</tsre:alias>
+                <tsre:alias>bwrtalyjry</tsre:alias>
+                <tsre:alias>poratalegre</tsre:alias>
+                <tsre:alias>porutaregure</tsre:alias>
+                <tsre:alias>prtalgrh</tsre:alias>
+                <tsre:alias>pwrtalygry</tsre:alias>
+                <tsre:alias>pwrtalygrے</tsre:alias>
+                <tsre:alias>Порталегре</tsre:alias>
+                <tsre:alias>Порталегри</tsre:alias>
+                <tsre:alias>بورتاليجري</tsre:alias>
+                <tsre:alias>بورتاليغري</tsre:alias>
+                <tsre:alias>پرتالگره</tsre:alias>
+                <tsre:alias>پورتالیگری</tsre:alias>
+                <tsre:alias>پورتالیگرے</tsre:alias>
+                <tsre:alias>पोर्टालेग्रे</tsre:alias>
+                <tsre:alias>পোর্টালেগ্রে</tsre:alias>
+                <tsre:alias>ਪੋਰਟਾਲੇਗ੍ਰੇ</tsre:alias>
+                <tsre:alias>ፖritaleግre</tsre:alias>
+                <tsre:alias>ፖርታሌግሬ</tsre:alias>
+                <tsre:alias>ポルタレグレ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.43122000,39.29379000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Pontinha</name>
+            <ExtendedData>
+                <tsre:placeId>2264526</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>23249</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.19935000,38.76771000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Pombal</name>
+            <ExtendedData>
+                <tsre:placeId>2264575</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>17355</tsre:population>
+                <tsre:alias>Помбал</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.62847000,39.91674000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Pinhal Novo</name>
+            <ExtendedData>
+                <tsre:placeId>2264718</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>23510</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.91376000,38.63106000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Piedade</name>
+            <ExtendedData>
+                <tsre:placeId>2264736</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>19472</tsre:population>
+                <tsre:alias>Cova da Piedade</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.15852000,38.67005000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Peniche</name>
+            <ExtendedData>
+                <tsre:placeId>2264923</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>15662</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.38112000,39.35580000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Parede</name>
+            <ExtendedData>
+                <tsre:placeId>2265169</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>17212</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.35412000,38.69282000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Palmela</name>
+            <ExtendedData>
+                <tsre:placeId>2265223</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>16934</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.90126000,38.56902000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Paço de Arcos</name>
+            <ExtendedData>
+                <tsre:placeId>2265326</tsre:placeId>
+                <tsre:asciiName>Paco de Arcos</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>25974</tsre:population>
+                <tsre:alias>Paco d'Arcos</tsre:alias>
+                <tsre:alias>Paço d'Arcos</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.29143000,38.69569000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olival</name>
+            <ExtendedData>
+                <tsre:placeId>2265428</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>42961</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.25015000,38.77079000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olivais</name>
+            <ExtendedData>
+                <tsre:placeId>2265432</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>33788</tsre:population>
+                <tsre:alias>Olivaes</tsre:alias>
+                <tsre:alias>Santa Maria dos Olivais</tsre:alias>
+                <tsre:alias>Santa-Marija-dush-Olivajsh</tsre:alias>
+                <tsre:alias>Santa-Marija-duz-Olivajsh</tsre:alias>
+                <tsre:alias>Санта-Мария-дуз-Оливайш</tsre:alias>
+                <tsre:alias>Санта-Мария-душ-Оливайш</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.10674000,38.76994000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Olhão</name>
+            <ExtendedData>
+                <tsre:placeId>2265447</tsre:placeId>
+                <tsre:asciiName>Olhao</tsre:asciiName>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>29239</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.84110000,37.02860000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Oeiras</name>
+            <ExtendedData>
+                <tsre:placeId>2265464</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>35000</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.31085000,38.69105000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Odivelas</name>
+            <ExtendedData>
+                <tsre:placeId>2265467</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>54624</tsre:population>
+                <tsre:alias>awdywlas</tsre:alias>
+                <tsre:alias>اودیولاس</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.18380000,38.79269000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Moscavide e Portela</name>
+            <ExtendedData>
+                <tsre:placeId>2265726</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>22488</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.10222000,38.77929000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Montijo</name>
+            <ExtendedData>
+                <tsre:placeId>2265788</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>30011</tsre:population>
+                <tsre:alias>Montikho</tsre:alias>
+                <tsre:alias>Монтихо</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.97388000,38.70675000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Monte Estoril</name>
+            <ExtendedData>
+                <tsre:placeId>2265927</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>23375</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.40595000,38.70636000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Monsanto</name>
+            <ExtendedData>
+                <tsre:placeId>2266249</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>50000</tsre:population>
+                <tsre:alias>Монсанто</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.71180000,39.46203000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Moita</name>
+            <ExtendedData>
+                <tsre:placeId>2266319</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>17795</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.99038000,38.65078000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Massamá</name>
+            <ExtendedData>
+                <tsre:placeId>2266621</tsre:placeId>
+                <tsre:asciiName>Massama</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>28112</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.28110000,38.75279000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Marvila</name>
+            <ExtendedData>
+                <tsre:placeId>2266629</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>35463</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.10165000,38.73981000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Marinha Grande</name>
+            <ExtendedData>
+                <tsre:placeId>2266703</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>28916</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.93228000,39.74769000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Lumiar</name>
+            <ExtendedData>
+                <tsre:placeId>2266940</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>46334</tsre:population>
+                <tsre:alias>Лумиар</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.15601000,38.77478000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Loures</name>
+            <ExtendedData>
+                <tsre:placeId>2266977</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>66231</tsre:population>
+                <tsre:alias>Loyres</tsre:alias>
+                <tsre:alias>Λόυρες</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.16845000,38.83091000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Loulé</name>
+            <ExtendedData>
+                <tsre:placeId>2266988</tsre:placeId>
+                <tsre:asciiName>Loule</tsre:asciiName>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>17930</tsre:population>
+                <tsre:alias>Lola</tsre:alias>
+                <tsre:alias>Lovle</tsre:alias>
+                <tsre:alias>Ловле</tsre:alias>
+                <tsre:alias>Лола</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.01968000,37.13772000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Lisbon</name>
+            <ExtendedData>
+                <tsre:placeId>2267057</tsre:placeId>
+                <tsre:featureCode>PPLC</tsre:featureCode>
+                <tsre:population>517802</tsre:population>
+                <tsre:alias>Felicitas Julia</tsre:alias>
+                <tsre:alias>Felicitas Julia Olissipo</tsre:alias>
+                <tsre:alias>LIS</tsre:alias>
+                <tsre:alias>Liospoin</tsre:alias>
+                <tsre:alias>Liospóin</tsre:alias>
+                <tsre:alias>Lisabon</tsre:alias>
+                <tsre:alias>Lisabona</tsre:alias>
+                <tsre:alias>Lisboa</tsre:alias>
+                <tsre:alias>Lisbona</tsre:alias>
+                <tsre:alias>Lisbonne</tsre:alias>
+                <tsre:alias>Lisbono</tsre:alias>
+                <tsre:alias>Lisbonum</tsre:alias>
+                <tsre:alias>Lisimba</tsre:alias>
+                <tsre:alias>Lisimbã</tsre:alias>
+                <tsre:alias>Lissabon</tsre:alias>
+                <tsre:alias>Lisszabon</tsre:alias>
+                <tsre:alias>Lizboa</tsre:alias>
+                <tsre:alias>Lizbon</tsre:alias>
+                <tsre:alias>Lizbona</tsre:alias>
+                <tsre:alias>Lizpon</tsre:alias>
+                <tsre:alias>Olisipo</tsre:alias>
+                <tsre:alias>Olissipo</tsre:alias>
+                <tsre:alias>li si ben</tsre:alias>
+                <tsre:alias>lisabana</tsre:alias>
+                <tsre:alias>lisaboni</tsre:alias>
+                <tsre:alias>lisbana</tsre:alias>
+                <tsre:alias>lisbxn</tsre:alias>
+                <tsre:alias>liseubon</tsre:alias>
+                <tsre:alias>lshbwnt</tsre:alias>
+                <tsre:alias>lysabwn</tsre:alias>
+                <tsre:alias>lysbwn</tsre:alias>
+                <tsre:alias>risubon</tsre:alias>
+                <tsre:alias>Λισαβώνα</tsre:alias>
+                <tsre:alias>Лисабон</tsre:alias>
+                <tsre:alias>Лиссабон</tsre:alias>
+                <tsre:alias>Лісабон</tsre:alias>
+                <tsre:alias>Լիզպոն</tsre:alias>
+                <tsre:alias>Լիսաբոն</tsre:alias>
+                <tsre:alias>ליסבון</tsre:alias>
+                <tsre:alias>لشبونة</tsre:alias>
+                <tsre:alias>لىسابون</tsre:alias>
+                <tsre:alias>لیسبون</tsre:alias>
+                <tsre:alias>ܠܫܒܘܢܐ</tsre:alias>
+                <tsre:alias>लिस्बन</tsre:alias>
+                <tsre:alias>লিসবন</tsre:alias>
+                <tsre:alias>ลิสบอน</tsre:alias>
+                <tsre:alias>ལ་ས་བན།</tsre:alias>
+                <tsre:alias>ལི་སི་བཱོན།</tsre:alias>
+                <tsre:alias>ლისაბონი</tsre:alias>
+                <tsre:alias>ሊዝቦን</tsre:alias>
+                <tsre:alias>リスボン</tsre:alias>
+                <tsre:alias>里斯本</tsre:alias>
+                <tsre:alias>리스본</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.14980000,38.72509000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Linda-a-Velha</name>
+            <ExtendedData>
+                <tsre:placeId>2267067</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>20895</tsre:population>
+                <tsre:alias>Linda a Velha</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.24220000,38.71446000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leiria</name>
+            <ExtendedData>
+                <tsre:placeId>2267095</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>128640</tsre:population>
+                <tsre:alias>Lejrija</tsre:alias>
+                <tsre:alias>QLR</tsre:alias>
+                <tsre:alias>Vieira de Leiria</tsre:alias>
+                <tsre:alias>le'iriya</tsre:alias>
+                <tsre:alias>leri'a</tsre:alias>
+                <tsre:alias>leriya</tsre:alias>
+                <tsre:alias>lyrya</tsre:alias>
+                <tsre:alias>lyyrya</tsre:alias>
+                <tsre:alias>lyyryh</tsre:alias>
+                <tsre:alias>reiria</tsre:alias>
+                <tsre:alias>Λεϊρία</tsre:alias>
+                <tsre:alias>Лейрия</tsre:alias>
+                <tsre:alias>Лејрија</tsre:alias>
+                <tsre:alias>לייריה</tsre:alias>
+                <tsre:alias>لييريا</tsre:alias>
+                <tsre:alias>لیریا</tsre:alias>
+                <tsre:alias>लेरिया</tsre:alias>
+                <tsre:alias>লেইরিয়া</tsre:alias>
+                <tsre:alias>ਲੇਰਿਆ</tsre:alias>
+                <tsre:alias>ልyeriya</tsre:alias>
+                <tsre:alias>ልየሪያ</tsre:alias>
+                <tsre:alias>レイリア</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.80705000,39.74362000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Lavradio</name>
+            <ExtendedData>
+                <tsre:placeId>2267112</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>21877</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.05204000,38.66808000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Laranjeiro</name>
+            <ExtendedData>
+                <tsre:placeId>2267131</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>20473</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.80780000,37.06799000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Laranjeiro</name>
+            <ExtendedData>
+                <tsre:placeId>2267141</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>20988</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.15376000,38.65599000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Lagos</name>
+            <ExtendedData>
+                <tsre:placeId>2267226</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>33494</tsre:population>
+                <tsre:alias>Lacobriga</tsre:alias>
+                <tsre:alias>Lagos (Distrito de Faro)</tsre:alias>
+                <tsre:alias>Lagosh</tsre:alias>
+                <tsre:alias>Лагош</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.67422000,37.10202000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Funchal</name>
+            <ExtendedData>
+                <tsre:placeId>2267827</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>105795</tsre:population>
+                <tsre:alias>FNC</tsre:alias>
+                <tsre:alias>Funsala</tsre:alias>
+                <tsre:alias>Funsalis</tsre:alias>
+                <tsre:alias>Funshal</tsre:alias>
+                <tsre:alias>Funšala</tsre:alias>
+                <tsre:alias>Funšalis</tsre:alias>
+                <tsre:alias>Phountsal</tsre:alias>
+                <tsre:alias>feng sha er</tsre:alias>
+                <tsre:alias>fnchal  prtgal</tsre:alias>
+                <tsre:alias>fnchl</tsre:alias>
+                <tsre:alias>fung chal</tsre:alias>
+                <tsre:alias>funsharu</tsre:alias>
+                <tsre:alias>fwnchal</tsre:alias>
+                <tsre:alias>fwnshal</tsre:alias>
+                <tsre:alias>phanasala</tsre:alias>
+                <tsre:alias>phucala</tsre:alias>
+                <tsre:alias>phuncala</tsre:alias>
+                <tsre:alias>phunkala</tsre:alias>
+                <tsre:alias>punshali</tsre:alias>
+                <tsre:alias>punsyal</tsre:alias>
+                <tsre:alias>pwnsl</tsre:alias>
+                <tsre:alias>Φουντσάλ</tsre:alias>
+                <tsre:alias>Фуншал</tsre:alias>
+                <tsre:alias>פונשל</tsre:alias>
+                <tsre:alias>فنچال ،پرتگال</tsre:alias>
+                <tsre:alias>فنچل</tsre:alias>
+                <tsre:alias>فونشال</tsre:alias>
+                <tsre:alias>فونچال</tsre:alias>
+                <tsre:alias>फुंकल</tsre:alias>
+                <tsre:alias>फुंचल</tsre:alias>
+                <tsre:alias>ফানশাল</tsre:alias>
+                <tsre:alias>ਫੁੰਚਲ</tsre:alias>
+                <tsre:alias>ฟุงชาล</tsre:alias>
+                <tsre:alias>ფუნშალი</tsre:alias>
+                <tsre:alias>ፉnicaል</tsre:alias>
+                <tsre:alias>ፉንቻል</tsre:alias>
+                <tsre:alias>フンシャル</tsre:alias>
+                <tsre:alias>丰沙尔</tsre:alias>
+                <tsre:alias>푼샬</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-16.92547000,32.66568000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Faro</name>
+            <ExtendedData>
+                <tsre:placeId>2268339</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>70347</tsre:population>
+                <tsre:alias>FAO</tsre:alias>
+                <tsre:alias>Faru</tsre:alias>
+                <tsre:alias>farw</tsre:alias>
+                <tsre:alias>pharo</tsre:alias>
+                <tsre:alias>Фару</tsre:alias>
+                <tsre:alias>فارو</tsre:alias>
+                <tsre:alias>फारो</tsre:alias>
+                <tsre:alias>ফারো</tsre:alias>
+                <tsre:alias>ਫਾਰੋ</tsre:alias>
+                <tsre:alias>ፋro</tsre:alias>
+                <tsre:alias>ፋሮ</tsre:alias>
+                <tsre:alias>ファロ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.92716000,37.01869000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Falagueira</name>
+            <ExtendedData>
+                <tsre:placeId>2268373</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>20788</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.22804000,38.76392000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Évora</name>
+            <ExtendedData>
+                <tsre:placeId>2268406</tsre:placeId>
+                <tsre:asciiName>Evora</tsre:asciiName>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>53591</tsre:population>
+                <tsre:alias>Aebura</tsre:alias>
+                <tsre:alias>Ebora</tsre:alias>
+                <tsre:alias>Ehvora</tsre:alias>
+                <tsre:alias>Elbora</tsre:alias>
+                <tsre:alias>Erbora</tsre:alias>
+                <tsre:alias>Yabura/Yabora/Yabra</tsre:alias>
+                <tsre:alias>awwa</tsre:alias>
+                <tsre:alias>ayfwra</tsre:alias>
+                <tsre:alias>aywwara</tsre:alias>
+                <tsre:alias>ebhora</tsre:alias>
+                <tsre:alias>evuora</tsre:alias>
+                <tsre:alias>ivora</tsre:alias>
+                <tsre:alias>Ébora</tsre:alias>
+                <tsre:alias>ʿivora</tsre:alias>
+                <tsre:alias>Эвора</tsre:alias>
+                <tsre:alias>إيفورا</tsre:alias>
+                <tsre:alias>اووا</tsre:alias>
+                <tsre:alias>ایووارا</tsre:alias>
+                <tsre:alias>एवोरा</tsre:alias>
+                <tsre:alias>এভোরা</tsre:alias>
+                <tsre:alias>ਈਵੋਰਾ</tsre:alias>
+                <tsre:alias>ኢቮራ</tsre:alias>
+                <tsre:alias>エヴォラ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.90405000,38.56587000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Estoril</name>
+            <ExtendedData>
+                <tsre:placeId>2268436</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>23700</tsre:population>
+                <tsre:alias>Ehshtoril</tsre:alias>
+                <tsre:alias>Eshhoril</tsre:alias>
+                <tsre:alias>Eshtoril</tsre:alias>
+                <tsre:alias>Eshturil</tsre:alias>
+                <tsre:alias>Estorilis</tsre:alias>
+                <tsre:alias>Estoris</tsre:alias>
+                <tsre:alias>Estorís</tsre:alias>
+                <tsre:alias>Estroil</tsre:alias>
+                <tsre:alias>Eštoril</tsre:alias>
+                <tsre:alias>ashtwryl</tsre:alias>
+                <tsre:alias>astwryl</tsre:alias>
+                <tsre:alias>eshtʼorili</tsre:alias>
+                <tsre:alias>esutoriru</tsre:alias>
+                <tsre:alias>iseutolil</tsre:alias>
+                <tsre:alias>Εστορίλ</tsre:alias>
+                <tsre:alias>Ешторил</tsre:alias>
+                <tsre:alias>Ештуріл</tsre:alias>
+                <tsre:alias>Ещорил</tsre:alias>
+                <tsre:alias>Эшторил</tsre:alias>
+                <tsre:alias>إستوريل</tsre:alias>
+                <tsre:alias>اشتوریل</tsre:alias>
+                <tsre:alias>ეშტორილი</tsre:alias>
+                <tsre:alias>エストリル</tsre:alias>
+                <tsre:alias>이스토릴</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.39773000,38.70571000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Entroncamento</name>
+            <ExtendedData>
+                <tsre:placeId>2268575</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>19887</tsre:population>
+                <tsre:alias>Entrocamento</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.46667000,39.46667000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Damaia</name>
+            <ExtendedData>
+                <tsre:placeId>2268728</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>37607</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.21227000,38.75141000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Corroios</name>
+            <ExtendedData>
+                <tsre:placeId>2269041</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>52520</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.15080000,38.64004000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Charneca de Caparica</name>
+            <ExtendedData>
+                <tsre:placeId>2269282</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>29763</tsre:population>
+                <tsre:alias>Charneca</tsre:alias>
+                <tsre:alias>Sharneka</tsre:alias>
+                <tsre:alias>Шарнека</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.19426000,38.62032000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Castelo Branco</name>
+            <ExtendedData>
+                <tsre:placeId>2269514</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>33479</tsre:population>
+                <tsre:alias>Kashtelo Branko</tsre:alias>
+                <tsre:alias>Kashtelu-Branku</tsre:alias>
+                <tsre:alias>Kastelu-Branku</tsre:alias>
+                <tsre:alias>kaisatelo branko</tsre:alias>
+                <tsre:alias>kasitelo biranikwe</tsre:alias>
+                <tsre:alias>kastelo branko</tsre:alias>
+                <tsre:alias>kastlw brankw</tsre:alias>
+                <tsre:alias>kastylw brankw</tsre:alias>
+                <tsre:alias>kasutero・buranko</tsre:alias>
+                <tsre:alias>kasٹylw brankw</tsre:alias>
+                <tsre:alias>kyastelo branko</tsre:alias>
+                <tsre:alias>Кастелу-Бранку</tsre:alias>
+                <tsre:alias>Каштело Бранко</tsre:alias>
+                <tsre:alias>Каштелу-Бранку</tsre:alias>
+                <tsre:alias>كاستيلو برانكو</tsre:alias>
+                <tsre:alias>کاستلو برانکو</tsre:alias>
+                <tsre:alias>کاسٹیلو برانکو</tsre:alias>
+                <tsre:alias>कास्टेलो ब्रांको</tsre:alias>
+                <tsre:alias>ক্যাস্টেলো ব্রাঙ্কো</tsre:alias>
+                <tsre:alias>ਕੈਸਟੇਲੋ ਬ੍ਰਾਂਕੋ</tsre:alias>
+                <tsre:alias>ካስቴሎ ብራንኮ</tsre:alias>
+                <tsre:alias>カステロ・ブランコ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.49101000,39.82364000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Cascais</name>
+            <ExtendedData>
+                <tsre:placeId>2269594</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>36436</tsre:population>
+                <tsre:alias>CAT</tsre:alias>
+                <tsre:alias>Cascaes</tsre:alias>
+                <tsre:alias>Kashkajsh</tsre:alias>
+                <tsre:alias>Kaskais</tsre:alias>
+                <tsre:alias>Kaskaisas</tsre:alias>
+                <tsre:alias>Kaškaišas</tsre:alias>
+                <tsre:alias>ka si kai shen</tsre:alias>
+                <tsre:alias>kasukaisu</tsre:alias>
+                <tsre:alias>Κασκάις</tsre:alias>
+                <tsre:alias>Кашкайш</tsre:alias>
+                <tsre:alias>Кашкајш</tsre:alias>
+                <tsre:alias>カスカイス</tsre:alias>
+                <tsre:alias>卡斯凯什</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.42147000,38.69681000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Carnide</name>
+            <ExtendedData>
+                <tsre:placeId>2270148</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>18028</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.18333000,38.76667000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Carnaxide</name>
+            <ExtendedData>
+                <tsre:placeId>2270157</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>23698</tsre:population>
+                <tsre:alias>Karnashide</tsre:alias>
+                <tsre:alias>Карнашиде</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.24671000,38.72706000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Carcavelos</name>
+            <ExtendedData>
+                <tsre:placeId>2270184</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>20366</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.32215000,38.69105000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Caparica</name>
+            <ExtendedData>
+                <tsre:placeId>2270229</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>21167</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.20032000,38.66179000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Caniço</name>
+            <ExtendedData>
+                <tsre:placeId>2270258</tsre:placeId>
+                <tsre:asciiName>Canico</tsre:asciiName>
+                <tsre:featureCode>PPLA3</tsre:featureCode>
+                <tsre:population>23368</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-16.83749000,32.65078000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Campo Grande</name>
+            <ExtendedData>
+                <tsre:placeId>2270339</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>15514</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.16651000,38.75471000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Camarate</name>
+            <ExtendedData>
+                <tsre:placeId>2270377</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>20177</tsre:population>
+                <tsre:alias>Camrate</tsre:alias>
+                <tsre:alias>Kamarate</tsre:alias>
+                <tsre:alias>Камарате</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.12809000,38.80358000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Câmara de Lobos</name>
+            <ExtendedData>
+                <tsre:placeId>2270380</tsre:placeId>
+                <tsre:asciiName>Camara de Lobos</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>32209</tsre:population>
+                <tsre:alias>Kamara nte Lompos</tsre:alias>
+                <tsre:alias>Kamara-de-Lobos</tsre:alias>
+                <tsre:alias>Kamara-de-Lobush</tsre:alias>
+                <tsre:alias>Kamara-di-Lobush</tsre:alias>
+                <tsre:alias>ka ma la-de luo bu shen</tsre:alias>
+                <tsre:alias>kamara dlwbws</tsre:alias>
+                <tsre:alias>kamara dy lwbws</tsre:alias>
+                <tsre:alias>Καμάρα ντε Λόμπος</tsre:alias>
+                <tsre:alias>Камара-де-Лобос</tsre:alias>
+                <tsre:alias>Камара-де-Лобуш</tsre:alias>
+                <tsre:alias>Камара-ди-Лобуш</tsre:alias>
+                <tsre:alias>كامارا دي لوبوس</tsre:alias>
+                <tsre:alias>کامارا دلوبوس</tsre:alias>
+                <tsre:alias>კამარა-დი-ლობუში</tsre:alias>
+                <tsre:alias>卡馬拉-德洛布什</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-16.97718000,32.65043000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Caldas da Rainha</name>
+            <ExtendedData>
+                <tsre:placeId>2270437</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>27378</tsre:population>
+                <tsre:alias>Caldad da Rainha</tsre:alias>
+                <tsre:alias>Kaldash da Rajna</tsre:alias>
+                <tsre:alias>Kaldash-da-Rain'ja</tsre:alias>
+                <tsre:alias>kaldas daraynya</tsre:alias>
+                <tsre:alias>Калдаш да Рајња</tsre:alias>
+                <tsre:alias>Калдаш-да-Раинья</tsre:alias>
+                <tsre:alias>کالداس داراینیا</tsre:alias>
+                <tsre:alias>კალდაშ-და-რაინია</tsre:alias>
+                <tsre:alias>カルダス・ダ・ライーニャ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.13839000,39.40326000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Cacém</name>
+            <ExtendedData>
+                <tsre:placeId>2270503</tsre:placeId>
+                <tsre:asciiName>Cacem</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>93982</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.29793000,38.76698000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Buraca</name>
+            <ExtendedData>
+                <tsre:placeId>2270629</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>16081</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.20000000,38.73333000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Benfica</name>
+            <ExtendedData>
+                <tsre:placeId>2270962</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>36985</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.20282000,38.75087000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Belém</name>
+            <ExtendedData>
+                <tsre:placeId>2270978</tsre:placeId>
+                <tsre:asciiName>Belem</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>16546</tsre:population>
+                <tsre:alias>Belem Tower</tsre:alias>
+                <tsre:alias>Belem torony</tsre:alias>
+                <tsre:alias>Belemin torni</tsre:alias>
+                <tsre:alias>Belém Tower</tsre:alias>
+                <tsre:alias>Belém torony</tsre:alias>
+                <tsre:alias>Belémin torni</tsre:alias>
+                <tsre:alias>Betlehemsturninn</tsre:alias>
+                <tsre:alias>Torre de Belem</tsre:alias>
+                <tsre:alias>Torre de Belém</tsre:alias>
+                <tsre:alias>Tour de Belem</tsre:alias>
+                <tsre:alias>Tour de Belém</tsre:alias>
+                <tsre:alias>Tuerm vu Belem</tsre:alias>
+                <tsre:alias>Tuerm vu Belém</tsre:alias>
+                <tsre:alias>bei lun ta</tsre:alias>
+                <tsre:alias>贝伦塔</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.19289000,38.69875000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Belas</name>
+            <ExtendedData>
+                <tsre:placeId>2270981</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>21019</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.26353000,38.77670000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Beja</name>
+            <ExtendedData>
+                <tsre:placeId>2270985</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>34760</tsre:population>
+                <tsre:alias>BYJ</tsre:alias>
+                <tsre:alias>Bekha</tsre:alias>
+                <tsre:alias>Béja</tsre:alias>
+                <tsre:alias>Conistorgis</tsre:alias>
+                <tsre:alias>byja</tsre:alias>
+                <tsre:alias>Беха</tsre:alias>
+                <tsre:alias>بيجا</tsre:alias>
+                <tsre:alias>بیجا</tsre:alias>
+                <tsre:alias>बेजा</tsre:alias>
+                <tsre:alias>বেজা</tsre:alias>
+                <tsre:alias>ਬੇਜਾ</tsre:alias>
+                <tsre:alias>በጃ</tsre:alias>
+                <tsre:alias>ベジャ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.86284000,38.01469000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Barreiro</name>
+            <ExtendedData>
+                <tsre:placeId>2271071</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>51280</tsre:population>
+                <tsre:alias>Barrejru</tsre:alias>
+                <tsre:alias>ba lei lu</tsre:alias>
+                <tsre:alias>Баррейру</tsre:alias>
+                <tsre:alias>巴雷鲁</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.07240000,38.66314000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Azambuja</name>
+            <ExtendedData>
+                <tsre:placeId>2271337</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>21422</tsre:population>
+                <tsre:alias>Azambuzha</tsre:alias>
+                <tsre:alias>a zan bu ya</tsre:alias>
+                <tsre:alias>Азамбужа</tsre:alias>
+                <tsre:alias>阿贊布雅</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.86822000,39.07029000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Arrentela</name>
+            <ExtendedData>
+                <tsre:placeId>2271473</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>30156</tsre:population>
+                <tsre:alias>Arrentella</tsre:alias>
+                <tsre:alias>Аррентела</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.10151000,38.62500000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Areeiro</name>
+            <ExtendedData>
+                <tsre:placeId>2271547</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>21160</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.13800000,38.74100000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Amora</name>
+            <ExtendedData>
+                <tsre:placeId>2271680</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>52577</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.11557000,38.62961000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Amadora</name>
+            <ExtendedData>
+                <tsre:placeId>2271772</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>178858</tsre:population>
+                <tsre:alias>Αμαδόρα</tsre:alias>
+                <tsre:alias>Амадора</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.23083000,38.75382000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Almada</name>
+            <ExtendedData>
+                <tsre:placeId>2271961</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>34008</tsre:population>
+                <tsre:alias>Almanta</tsre:alias>
+                <tsre:alias>Αλμάντα</tsre:alias>
+                <tsre:alias>Алмада</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.15690000,38.67902000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Algueirão</name>
+            <ExtendedData>
+                <tsre:placeId>2271977</tsre:placeId>
+                <tsre:asciiName>Algueirao</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>66250</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.34370000,38.79764000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Algés</name>
+            <ExtendedData>
+                <tsre:placeId>2271985</tsre:placeId>
+                <tsre:asciiName>Alges</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>19327</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.22936000,38.70245000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Alfornelos</name>
+            <ExtendedData>
+                <tsre:placeId>2272005</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>27093</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.20508000,38.76098000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Alcobaça</name>
+            <ExtendedData>
+                <tsre:placeId>2272147</tsre:placeId>
+                <tsre:asciiName>Alcobaca</tsre:asciiName>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>15800</tsre:population>
+                <tsre:alias>Alkobasa</tsre:alias>
+                <tsre:alias>a er ke ba sa</tsre:alias>
+                <tsre:alias>alakobaka</tsre:alias>
+                <tsre:alias>alkwbaka</tsre:alias>
+                <tsre:alias>alkwbasa</tsre:alias>
+                <tsre:alias>Алкобаса</tsre:alias>
+                <tsre:alias>Ալկոբասա</tsre:alias>
+                <tsre:alias>آلکوباسا</tsre:alias>
+                <tsre:alias>ألكوباكا</tsre:alias>
+                <tsre:alias>আলকোবাকা</tsre:alias>
+                <tsre:alias>阿爾科巴薩</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.97749000,39.55223000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Alcântara</name>
+            <ExtendedData>
+                <tsre:placeId>2272187</tsre:placeId>
+                <tsre:asciiName>Alcantara</tsre:asciiName>
+                <tsre:featureCode>PPLX</tsre:featureCode>
+                <tsre:population>20267</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.17145000,38.70102000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Alcabideche</name>
+            <ExtendedData>
+                <tsre:placeId>2272215</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>33315</tsre:population>
+                <tsre:alias>Alkabideshe</tsre:alias>
+                <tsre:alias>Aloabideche</tsre:alias>
+                <tsre:alias>Aloabidèche</tsre:alias>
+                <tsre:alias>Алкабидеше</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.40928000,38.73366000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Albufeira</name>
+            <ExtendedData>
+                <tsre:placeId>2272222</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>15851</tsre:population>
+                <tsre:alias>Albufejra</tsre:alias>
+                <tsre:alias>albwfyra</tsre:alias>
+                <tsre:alias>Албуфейра</tsre:alias>
+                <tsre:alias>Албуфејра</tsre:alias>
+                <tsre:alias>آلبوفیرا</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.25030000,37.08819000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Viseu</name>
+            <ExtendedData>
+                <tsre:placeId>2732265</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>103502</tsre:population>
+                <tsre:alias>VSE</tsre:alias>
+                <tsre:alias>Vizeu</tsre:alias>
+                <tsre:alias>Vizeu Celorico</tsre:alias>
+                <tsre:alias>bhisi'u</tsre:alias>
+                <tsre:alias>fysyw</tsre:alias>
+                <tsre:alias>vise'u</tsre:alias>
+                <tsre:alias>viseው</tsre:alias>
+                <tsre:alias>visi'u</tsre:alias>
+                <tsre:alias>vuiseu</tsre:alias>
+                <tsre:alias>wysyw</tsre:alias>
+                <tsre:alias>wyzyw</tsre:alias>
+                <tsre:alias>Визеу</tsre:alias>
+                <tsre:alias>فيسيو</tsre:alias>
+                <tsre:alias>ویزئو</tsre:alias>
+                <tsre:alias>ویسیو</tsre:alias>
+                <tsre:alias>विसेउ</tsre:alias>
+                <tsre:alias>ভিসিউ</tsre:alias>
+                <tsre:alias>ਵਿਸਿਊ</tsre:alias>
+                <tsre:alias>ቪሴው</tsre:alias>
+                <tsre:alias>ヴィセウ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.90905000,40.66165000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Vila Real</name>
+            <ExtendedData>
+                <tsre:placeId>2732438</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>17001</tsre:population>
+                <tsre:alias>Bila Real</tsre:alias>
+                <tsre:alias>Bila Rial</tsre:alias>
+                <tsre:alias>VRL</tsre:alias>
+                <tsre:alias>Vila Realas</tsre:alias>
+                <tsre:alias>Vila-Real</tsre:alias>
+                <tsre:alias>bhila riyala</tsre:alias>
+                <tsre:alias>fyla ryal</tsre:alias>
+                <tsre:alias>lei a er cheng</tsre:alias>
+                <tsre:alias>vila ri'ala</tsre:alias>
+                <tsre:alias>vila ri'ola</tsre:alias>
+                <tsre:alias>vila riʿeል</tsre:alias>
+                <tsre:alias>vila-reali</tsre:alias>
+                <tsre:alias>wyla ryal</tsre:alias>
+                <tsre:alias>Βίλα Ρεάλ</tsre:alias>
+                <tsre:alias>Вила Реал</tsre:alias>
+                <tsre:alias>Вила-Реал</tsre:alias>
+                <tsre:alias>فيلا ريال</tsre:alias>
+                <tsre:alias>ویلا رئال</tsre:alias>
+                <tsre:alias>ویلا ریال</tsre:alias>
+                <tsre:alias>विला रिओल</tsre:alias>
+                <tsre:alias>ভিলা রিয়াল</tsre:alias>
+                <tsre:alias>ਵਿਲਾ ਰੀਅਲ</tsre:alias>
+                <tsre:alias>ვილა-რეალი</tsre:alias>
+                <tsre:alias>ቪላ ሪአል</tsre:alias>
+                <tsre:alias>ヴィラ・レアル</tsre:alias>
+                <tsre:alias>雷阿爾城</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.74320000,41.30010000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Vilar de Andorinho</name>
+            <ExtendedData>
+                <tsre:placeId>2732475</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>18944</tsre:population>
+                <tsre:alias>Andorinho</tsre:alias>
+                <tsre:alias>Vilar de Andorinha</tsre:alias>
+                <tsre:alias>Villar d'Andorinha</tsre:alias>
+                <tsre:alias>Villar d'Andorinho</tsre:alias>
+                <tsre:alias>Villar d’Andorinha</tsre:alias>
+                <tsre:alias>Villar d’Andorinho</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.58622000,41.10574000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Vilar</name>
+            <ExtendedData>
+                <tsre:placeId>2732513</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>21227</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.63225000,40.62731000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Vila Nova de Gaia</name>
+            <ExtendedData>
+                <tsre:placeId>2732544</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>70811</tsre:population>
+                <tsre:alias>Bila Noba nte Nkaia</tsre:alias>
+                <tsre:alias>Gaia</tsre:alias>
+                <tsre:alias>Portus Cale</tsre:alias>
+                <tsre:alias>Vila-Nova-de-Gajja</tsre:alias>
+                <tsre:alias>Βίλα Νόβα ντε Γκάια</tsre:alias>
+                <tsre:alias>Вила-Нова-де-Гайя</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.61241000,41.12401000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Vila do Conde</name>
+            <ExtendedData>
+                <tsre:placeId>2732649</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>27642</tsre:population>
+                <tsre:alias>Bila nto Konte</tsre:alias>
+                <tsre:alias>Vila do Conde Municipality</tsre:alias>
+                <tsre:alias>Vila do Konde</tsre:alias>
+                <tsre:alias>Vila do Kondė</tsre:alias>
+                <tsre:alias>Vila-du-Konde</tsre:alias>
+                <tsre:alias>Vila-du-Kondi</tsre:alias>
+                <tsre:alias>kong di zhen</tsre:alias>
+                <tsre:alias>wyla dw kndh</tsre:alias>
+                <tsre:alias>Βίλα ντο Κόντε</tsre:alias>
+                <tsre:alias>Вила-ду-Конде</tsre:alias>
+                <tsre:alias>Вила-ду-Конди</tsre:alias>
+                <tsre:alias>ویلا دو کنده</tsre:alias>
+                <tsre:alias>ვილა-დუ-კონდე</tsre:alias>
+                <tsre:alias>孔迪镇</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.74516000,41.35326000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Viana do Castelo</name>
+            <ExtendedData>
+                <tsre:placeId>2732773</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>36148</tsre:population>
+                <tsre:alias>Viana-du-Kashtelu</tsre:alias>
+                <tsre:alias>Vianna do Castello</tsre:alias>
+                <tsre:alias>Vjana do Kashtelo</tsre:alias>
+                <tsre:alias>bhiyana do kastelo</tsre:alias>
+                <tsre:alias>fyana dw kastylw</tsre:alias>
+                <tsre:alias>vi'ana du kaisatelo</tsre:alias>
+                <tsre:alias>vi'ana du kastelo</tsre:alias>
+                <tsre:alias>viyana du kasitelo</tsre:alias>
+                <tsre:alias>vuiana・dou・kasutero</tsre:alias>
+                <tsre:alias>wyana dw kastlw</tsre:alias>
+                <tsre:alias>wyana ڈw kasٹylw</tsre:alias>
+                <tsre:alias>wyana ډw kasٹylw</tsre:alias>
+                <tsre:alias>Виана-ду-Каштелу</tsre:alias>
+                <tsre:alias>Вјана до Каштело</tsre:alias>
+                <tsre:alias>فيانا دو كاستيلو</tsre:alias>
+                <tsre:alias>ویانا دو کاستلو</tsre:alias>
+                <tsre:alias>ویانا ڈو کاسٹیلو</tsre:alias>
+                <tsre:alias>ویانا ډو کاسٹیلو</tsre:alias>
+                <tsre:alias>विआना डु कास्टेलो</tsre:alias>
+                <tsre:alias>ভিয়ানা দো কাস্টেলো</tsre:alias>
+                <tsre:alias>ਵਿਆਨਾ ਡੂ ਕੈਸਟੇਲੋ</tsre:alias>
+                <tsre:alias>ቪያና ዱ ካስቴሎ</tsre:alias>
+                <tsre:alias>ヴィアナ・ドゥ・カステロ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.83287000,41.69323000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Vermoim</name>
+            <ExtendedData>
+                <tsre:placeId>2732785</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>15764</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.60651000,41.24315000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Valongo</name>
+            <ExtendedData>
+                <tsre:placeId>2732978</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>21328</tsre:population>
+                <tsre:alias>Valonga</tsre:alias>
+                <tsre:alias>Valongu</tsre:alias>
+                <tsre:alias>Валонгу</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.49857000,41.18883000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Valadares</name>
+            <ExtendedData>
+                <tsre:placeId>2733263</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>22322</tsre:population>
+                <tsre:alias>Lavadoras</tsre:alias>
+                <tsre:alias>Lavadoures</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.63219000,41.09294000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Trofa</name>
+            <ExtendedData>
+                <tsre:placeId>2733352</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>20692</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.55960000,41.33729000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Sequeira</name>
+            <ExtendedData>
+                <tsre:placeId>2734106</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>28502</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.22594000,40.55364000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Senhora da Hora</name>
+            <ExtendedData>
+                <tsre:placeId>2734140</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>28930</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.65172000,41.18641000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>São Tiago de Custoias</name>
+            <ExtendedData>
+                <tsre:placeId>2734306</tsre:placeId>
+                <tsre:asciiName>Sao Tiago de Custoias</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>19000</tsre:population>
+                <tsre:alias>Custoias</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.63333000,41.20000000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>São Pedro da Cova</name>
+            <ExtendedData>
+                <tsre:placeId>2734363</tsre:placeId>
+                <tsre:asciiName>Sao Pedro da Cova</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>17011</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.50033000,41.14331000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>São Paulo de Frades</name>
+            <ExtendedData>
+                <tsre:placeId>2734379</tsre:placeId>
+                <tsre:asciiName>Sao Paulo de Frades</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>17154</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.39402000,40.24678000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>São Martinho do Bispo</name>
+            <ExtendedData>
+                <tsre:placeId>2734410</tsre:placeId>
+                <tsre:asciiName>Sao Martinho do Bispo</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>15315</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.45692000,40.21021000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>São Mamede de Infesta</name>
+            <ExtendedData>
+                <tsre:placeId>2734434</tsre:placeId>
+                <tsre:asciiName>Sao Mamede de Infesta</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>25940</tsre:population>
+                <tsre:alias>San-Mamed-de-Infeshta</tsre:alias>
+                <tsre:alias>Santo Mamede de Infesta</tsre:alias>
+                <tsre:alias>Sao Mamede</tsre:alias>
+                <tsre:alias>Sao Mamede da Infesta</tsre:alias>
+                <tsre:alias>São Mamede</tsre:alias>
+                <tsre:alias>São Mamede da Infesta</tsre:alias>
+                <tsre:alias>Сан-Мамед-де-Инфешта</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.61105000,41.19183000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>São João da Madeira</name>
+            <ExtendedData>
+                <tsre:placeId>2734484</tsre:placeId>
+                <tsre:asciiName>Sao Joao da Madeira</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>22079</tsre:population>
+                <tsre:alias>San-Zhuan-da-Madejra</tsre:alias>
+                <tsre:alias>Santo Joao da Madeira</tsre:alias>
+                <tsre:alias>Santo João da Madeira</tsre:alias>
+                <tsre:alias>Sao Joao da Madeiro</tsre:alias>
+                <tsre:alias>Sao Joao de Madeira</tsre:alias>
+                <tsre:alias>São João da Madeiro</tsre:alias>
+                <tsre:alias>São João de Madeira</tsre:alias>
+                <tsre:alias>Сан-Жуан-да-Мадейра</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.49020000,40.90070000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Santo Ovídio</name>
+            <ExtendedData>
+                <tsre:placeId>2734576</tsre:placeId>
+                <tsre:asciiName>Santo Ovidio</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>38544</tsre:population>
+                <tsre:alias>Santo Oviedo</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.60235000,41.11379000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Santo António dos Olivais</name>
+            <ExtendedData>
+                <tsre:placeId>2734585</tsre:placeId>
+                <tsre:asciiName>Santo Antonio dos Olivais</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>41150</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.40523000,40.21805000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Rio Tinto</name>
+            <ExtendedData>
+                <tsre:placeId>2735083</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>49966</tsre:population>
+                <tsre:alias>Rio Tinto i Portugal</tsre:alias>
+                <tsre:alias>Riu-Tintu</tsre:alias>
+                <tsre:alias>li ao ting tuo</tsre:alias>
+                <tsre:alias>ryw tyntw</tsre:alias>
+                <tsre:alias>Риу-Тинту</tsre:alias>
+                <tsre:alias>ریو تینتو</tsre:alias>
+                <tsre:alias>რიო-ტინტო</tsre:alias>
+                <tsre:alias>里奧廷托</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.55953000,41.17872000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ribeira de Frades</name>
+            <ExtendedData>
+                <tsre:placeId>2735175</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>15315</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.47929000,40.20503000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Póvoa de Varzim</name>
+            <ExtendedData>
+                <tsre:placeId>2735787</tsre:placeId>
+                <tsre:asciiName>Povoa de Varzim</tsre:asciiName>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>29044</tsre:population>
+                <tsre:alias>Poboa nte Barzim</tsre:alias>
+                <tsre:alias>Povua de Varzinas</tsre:alias>
+                <tsre:alias>Povua-di-Varzin</tsre:alias>
+                <tsre:alias>Villa Euracini</tsre:alias>
+                <tsre:alias>bo wa-di wa er jin</tsre:alias>
+                <tsre:alias>pwwa dwarzym</tsre:alias>
+                <tsre:alias>Πόβοα ντε Βαρζίμ</tsre:alias>
+                <tsre:alias>Повоа де Варзим</tsre:alias>
+                <tsre:alias>Повуа-ди-Варзин</tsre:alias>
+                <tsre:alias>پووا دوارزیم</tsre:alias>
+                <tsre:alias>პოვუა-დე-ვარშინი</tsre:alias>
+                <tsre:alias>波瓦-迪瓦爾津</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.76364000,41.38344000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Porto</name>
+            <ExtendedData>
+                <tsre:placeId>2735943</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>252687</tsre:population>
+                <tsre:alias>OPO</tsre:alias>
+                <tsre:alias>Oporto</tsre:alias>
+                <tsre:alias>Portu</tsre:alias>
+                <tsre:alias>Portus Cale</tsre:alias>
+                <tsre:alias>bo tu</tsre:alias>
+                <tsre:alias>bwrtw</tsre:alias>
+                <tsre:alias>porato</tsre:alias>
+                <tsre:alias>poruto</tsre:alias>
+                <tsre:alias>pwrtw</tsre:alias>
+                <tsre:alias>pwrٹw</tsre:alias>
+                <tsre:alias>Πορτο</tsre:alias>
+                <tsre:alias>Πόρτο</tsre:alias>
+                <tsre:alias>Порто</tsre:alias>
+                <tsre:alias>Порту</tsre:alias>
+                <tsre:alias>פורטו</tsre:alias>
+                <tsre:alias>بورتو</tsre:alias>
+                <tsre:alias>پورتو</tsre:alias>
+                <tsre:alias>پورٹو</tsre:alias>
+                <tsre:alias>पोर्टो</tsre:alias>
+                <tsre:alias>পোর্তো</tsre:alias>
+                <tsre:alias>ਪੋਰਟੋ</tsre:alias>
+                <tsre:alias>პორტუ</tsre:alias>
+                <tsre:alias>ፖrito</tsre:alias>
+                <tsre:alias>ፖርቶ</tsre:alias>
+                <tsre:alias>ポルト</tsre:alias>
+                <tsre:alias>波圖</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.61097000,41.14850000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ponte de Lima</name>
+            <ExtendedData>
+                <tsre:placeId>2736041</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>44667</tsre:population>
+                <tsre:alias>Ponte do Lima</tsre:alias>
+                <tsre:alias>Понте де Лима</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.58393000,41.76719000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Pedroso</name>
+            <ExtendedData>
+                <tsre:placeId>2736521</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>18963</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.74897000,41.41103000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Paredes</name>
+            <ExtendedData>
+                <tsre:placeId>2736657</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>19834</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.33147000,41.20485000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Paranhos</name>
+            <ExtendedData>
+                <tsre:placeId>2736680</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>45883</tsre:population>
+                <tsre:alias>Paran'jush</tsre:alias>
+                <tsre:alias>Paranho</tsre:alias>
+                <tsre:alias>pa la niu shen</tsre:alias>
+                <tsre:alias>Параньюш</tsre:alias>
+                <tsre:alias>帕拉纽什</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.59931000,41.17289000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ovar</name>
+            <ExtendedData>
+                <tsre:placeId>2736930</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>18452</tsre:population>
+                <tsre:alias>Овар</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.62513000,40.85862000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Oliveira do Douro</name>
+            <ExtendedData>
+                <tsre:placeId>2737039</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>24407</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.58463000,41.12466000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Monção</name>
+            <ExtendedData>
+                <tsre:placeId>2737523</tsre:placeId>
+                <tsre:asciiName>Moncao</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>19738</tsre:population>
+                <tsre:alias>Monsao</tsre:alias>
+                <tsre:alias>Monsão</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.48076000,42.07892000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Matosinhos</name>
+            <ExtendedData>
+                <tsre:placeId>2737824</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>28070</tsre:population>
+                <tsre:alias>Matosinhos Municipality</tsre:alias>
+                <tsre:alias>Matozin'jush</tsre:alias>
+                <tsre:alias>Matozinhos</tsre:alias>
+                <tsre:alias>Matozinjosas</tsre:alias>
+                <tsre:alias>matwsynws</tsre:alias>
+                <tsre:alias>Матозиньюш</tsre:alias>
+                <tsre:alias>ماتوسینوس</tsre:alias>
+                <tsre:alias>მატოზინიუში</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.68908000,41.18207000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Maia</name>
+            <ExtendedData>
+                <tsre:placeId>2738014</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>36426</tsre:population>
+                <tsre:alias>Majja</tsre:alias>
+                <tsre:alias>Майя</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.61990000,41.23574000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Lordelo do Ouro</name>
+            <ExtendedData>
+                <tsre:placeId>2738214</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>22270</tsre:population>
+                <tsre:alias>Lordello</tsre:alias>
+                <tsre:alias>Lordelo</tsre:alias>
+                <tsre:alias>Lordelu-du-Oru</tsre:alias>
+                <tsre:alias>Ouro</tsre:alias>
+                <tsre:alias>Лорделу-ду-Ору</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.64845000,41.15059000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leça do Bailio</name>
+            <ExtendedData>
+                <tsre:placeId>2738347</tsre:placeId>
+                <tsre:asciiName>Leca do Bailio</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>16103</tsre:population>
+                <tsre:alias>Leca do Balio</tsre:alias>
+                <tsre:alias>Leca do Belio</tsre:alias>
+                <tsre:alias>Leça do Balio</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.63422000,41.21201000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Leça da Palmeira</name>
+            <ExtendedData>
+                <tsre:placeId>2738348</tsre:placeId>
+                <tsre:asciiName>Leca da Palmeira</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>17996</tsre:population>
+                <tsre:alias>Leca</tsre:alias>
+                <tsre:alias>Leca de Palmeira</tsre:alias>
+                <tsre:alias>Leça</tsre:alias>
+                <tsre:alias>Leça de Palmeira</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.70027000,41.19100000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ílhavo</name>
+            <ExtendedData>
+                <tsre:placeId>2738707</tsre:placeId>
+                <tsre:asciiName>Ilhavo</tsre:asciiName>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>17236</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.67021000,40.60188000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Guimarães</name>
+            <ExtendedData>
+                <tsre:placeId>2738752</tsre:placeId>
+                <tsre:asciiName>Guimaraes</tsre:asciiName>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>40604</tsre:population>
+                <tsre:alias>Gimarajnsh</tsre:alias>
+                <tsre:alias>Gimarajsh</tsre:alias>
+                <tsre:alias>Guimarais</tsre:alias>
+                <tsre:alias>Guimarãis</tsre:alias>
+                <tsre:alias>Nkimaraes</tsre:alias>
+                <tsre:alias>Γκιμαράες</tsre:alias>
+                <tsre:alias>Гимарайнш</tsre:alias>
+                <tsre:alias>Гимарајш</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.29619000,41.44443000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Guarda</name>
+            <ExtendedData>
+                <tsre:placeId>2738785</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>40126</tsre:population>
+                <tsre:alias>garida</tsre:alias>
+                <tsre:alias>ghwrda</tsre:alias>
+                <tsre:alias>gu'arada</tsre:alias>
+                <tsre:alias>gu'arda</tsre:alias>
+                <tsre:alias>guaruda</tsre:alias>
+                <tsre:alias>guyarda</tsre:alias>
+                <tsre:alias>gward</tsre:alias>
+                <tsre:alias>gwarڈa</tsre:alias>
+                <tsre:alias>gwarډa</tsre:alias>
+                <tsre:alias>Гуарда</tsre:alias>
+                <tsre:alias>غوردا</tsre:alias>
+                <tsre:alias>گوارد</tsre:alias>
+                <tsre:alias>گوارڈا</tsre:alias>
+                <tsre:alias>گوارډا</tsre:alias>
+                <tsre:alias>गुआर्दा</tsre:alias>
+                <tsre:alias>গুয়ার্দা</tsre:alias>
+                <tsre:alias>ਗੁਆਰਦਾ</tsre:alias>
+                <tsre:alias>ጋርዳ</tsre:alias>
+                <tsre:alias>グアルダ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.26631000,40.53754000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gondomar</name>
+            <ExtendedData>
+                <tsre:placeId>2738925</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>27691</tsre:population>
+                <tsre:alias>Гондомар</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.53223000,41.14454000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Figueira da Foz</name>
+            <ExtendedData>
+                <tsre:placeId>2739590</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>46600</tsre:population>
+                <tsre:alias>Figeira da Fosas</tsre:alias>
+                <tsre:alias>Figejra da Fosh</tsre:alias>
+                <tsre:alias>Figejra-da-Fosh</tsre:alias>
+                <tsre:alias>Figueira da Foz Municipality</tsre:alias>
+                <tsre:alias>Figueira de la Foc</tsre:alias>
+                <tsre:alias>Figueira de la Foç</tsre:alias>
+                <tsre:alias>Phinkeira nta Phous</tsre:alias>
+                <tsre:alias>fei gai la-da fu shen</tsre:alias>
+                <tsre:alias>fygwyra dafwsh</tsre:alias>
+                <tsre:alias>pigeiladaposeu</tsre:alias>
+                <tsre:alias>pigeira-da-poshi</tsre:alias>
+                <tsre:alias>Φιγκέιρα ντα Φους</tsre:alias>
+                <tsre:alias>Фигейра-да-Фош</tsre:alias>
+                <tsre:alias>Фигејра да Фош</tsre:alias>
+                <tsre:alias>فیگوئرا دافوش</tsre:alias>
+                <tsre:alias>ფიგეირა-და-ფოში</tsre:alias>
+                <tsre:alias>菲蓋拉-達福什</tsre:alias>
+                <tsre:alias>피게이라다포스</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.86179000,40.15085000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Felgueiras</name>
+            <ExtendedData>
+                <tsre:placeId>2739693</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>58065</tsre:population>
+                <tsre:alias>Phelnkeiras</tsre:alias>
+                <tsre:alias>Φέλγκεϊρας</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.19396000,41.36806000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Feira</name>
+            <ExtendedData>
+                <tsre:placeId>2739723</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>16376</tsre:population>
+                <tsre:alias>Santa Maria da Feira</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.54277000,40.92535000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Fânzeres</name>
+            <ExtendedData>
+                <tsre:placeId>2739756</tsre:placeId>
+                <tsre:asciiName>Fanzeres</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>23916</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.52981000,41.16754000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Fafe</name>
+            <ExtendedData>
+                <tsre:placeId>2739788</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>16868</tsre:population>
+                <tsre:alias>Фафе</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.17258000,41.45083000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Esposende</name>
+            <ExtendedData>
+                <tsre:placeId>2739848</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>34625</tsre:population>
+                <tsre:alias>Espozende</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.78201000,41.53610000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Espinho</name>
+            <ExtendedData>
+                <tsre:placeId>2739868</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>32786</tsre:population>
+                <tsre:alias>Ehshpin'ju</tsre:alias>
+                <tsre:alias>Espinio</tsre:alias>
+                <tsre:alias>Espinjas</tsre:alias>
+                <tsre:alias>esupinyo</tsre:alias>
+                <tsre:alias>Εσπίνιο</tsre:alias>
+                <tsre:alias>Эшпинью</tsre:alias>
+                <tsre:alias>エスピーニョ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.64125000,41.00763000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ermesinde</name>
+            <ExtendedData>
+                <tsre:placeId>2739997</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>39420</tsre:population>
+                <tsre:alias>Ehrmezinde</tsre:alias>
+                <tsre:alias>Ermezinde</tsre:alias>
+                <tsre:alias>Эрмезинде</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.55318000,41.21653000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Eiras</name>
+            <ExtendedData>
+                <tsre:placeId>2740057</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>17154</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.41549000,40.24827000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Custoias</name>
+            <ExtendedData>
+                <tsre:placeId>2740174</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>19406</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.32097000,41.10530000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Covilhã</name>
+            <ExtendedData>
+                <tsre:placeId>2740313</tsre:placeId>
+                <tsre:asciiName>Covilha</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>17610</tsre:population>
+                <tsre:alias>COV</tsre:alias>
+                <tsre:alias>Kovil'jan</tsre:alias>
+                <tsre:alias>Ковильян</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.50504000,40.28106000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Condeixa-a-Nova</name>
+            <ExtendedData>
+                <tsre:placeId>2740593</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>17078</tsre:population>
+                <tsre:alias>Condeixa</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.49804000,40.11283000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Coimbra</name>
+            <ExtendedData>
+                <tsre:placeId>2740637</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>140796</tsre:population>
+                <tsre:alias>CBP</tsre:alias>
+                <tsre:alias>Coímbra</tsre:alias>
+                <tsre:alias>Coïmbra</tsre:alias>
+                <tsre:alias>Koimbra</tsre:alias>
+                <tsre:alias>Koimbro</tsre:alias>
+                <tsre:alias>Koimpra</tsre:alias>
+                <tsre:alias>Koímbra</tsre:alias>
+                <tsre:alias>ke ying bu la</tsre:alias>
+                <tsre:alias>ko'imabara</tsre:alias>
+                <tsre:alias>ko'imbra</tsre:alias>
+                <tsre:alias>koinbura</tsre:alias>
+                <tsre:alias>kweyiምbira</tsre:alias>
+                <tsre:alias>kwymbra</tsre:alias>
+                <tsre:alias>Κόιμπρα</tsre:alias>
+                <tsre:alias>Коимбра</tsre:alias>
+                <tsre:alias>كويمبرا</tsre:alias>
+                <tsre:alias>کوئمبرا</tsre:alias>
+                <tsre:alias>کویمبرا</tsre:alias>
+                <tsre:alias>कोइम्ब्रा</tsre:alias>
+                <tsre:alias>কোইম্ব্রা</tsre:alias>
+                <tsre:alias>ਕੋਇਮਬਰਾ</tsre:alias>
+                <tsre:alias>ኮይምብራ</tsre:alias>
+                <tsre:alias>コインブラ</tsre:alias>
+                <tsre:alias>科英布拉</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.41996000,40.20686000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Chaves</name>
+            <ExtendedData>
+                <tsre:placeId>2740761</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>17535</tsre:population>
+                <tsre:alias>CHV</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.46879000,41.74019000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Canidelo</name>
+            <ExtendedData>
+                <tsre:placeId>2741551</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>26431</tsre:population>
+                <tsre:alias>Canidello</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.64654000,41.12314000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Campanhã</name>
+            <ExtendedData>
+                <tsre:placeId>2741667</tsre:placeId>
+                <tsre:asciiName>Campanha</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>29666</tsre:population>
+                <tsre:alias>Kampan'jan</tsre:alias>
+                <tsre:alias>kan pa ni yang</tsre:alias>
+                <tsre:alias>Кампаньян</tsre:alias>
+                <tsre:alias>坎帕尼扬</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.57466000,41.15706000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Cabeceiras de Basto</name>
+            <ExtendedData>
+                <tsre:placeId>2741865</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>16710</tsre:population>
+                <tsre:alias>Kabesejrash-di-Bashtu</tsre:alias>
+                <tsre:alias>ka bei sai la shen de ba shen tu</tsre:alias>
+                <tsre:alias>Кабесейраш-ди-Башту</tsre:alias>
+                <tsre:alias>Кабесейраш-ді-Башту</tsre:alias>
+                <tsre:alias>卡貝塞拉什德巴什圖</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-7.98942000,41.51431000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bragança</name>
+            <ExtendedData>
+                <tsre:placeId>2742027</tsre:placeId>
+                <tsre:asciiName>Braganca</tsre:asciiName>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>35341</tsre:population>
+                <tsre:alias>BGC</tsre:alias>
+                <tsre:alias>Bragan'</tsre:alias>
+                <tsre:alias>Bragance</tsre:alias>
+                <tsre:alias>Braganza</tsre:alias>
+                <tsre:alias>biraganisa</tsre:alias>
+                <tsre:alias>braganasa</tsre:alias>
+                <tsre:alias>braganka</tsre:alias>
+                <tsre:alias>bragansa</tsre:alias>
+                <tsre:alias>braghansa</tsre:alias>
+                <tsre:alias>buragansa</tsre:alias>
+                <tsre:alias>Браганца</tsre:alias>
+                <tsre:alias>Брагань</tsre:alias>
+                <tsre:alias>براغانسا</tsre:alias>
+                <tsre:alias>براگانسا</tsre:alias>
+                <tsre:alias>ब्रागान्का</tsre:alias>
+                <tsre:alias>ব্রাগানসা</tsre:alias>
+                <tsre:alias>ਬ੍ਰਾਗਾਂਸਾ</tsre:alias>
+                <tsre:alias>ብራጋንሳ</tsre:alias>
+                <tsre:alias>ブラガンサ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-6.75898000,41.80716000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Braga</name>
+            <ExtendedData>
+                <tsre:placeId>2742032</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>193324</tsre:population>
+                <tsre:alias>BGZ</tsre:alias>
+                <tsre:alias>Bracara Augusta</tsre:alias>
+                <tsre:alias>Mpranka</tsre:alias>
+                <tsre:alias>biraga</tsre:alias>
+                <tsre:alias>bragha</tsre:alias>
+                <tsre:alias>buraga</tsre:alias>
+                <tsre:alias>Μπράγκα</tsre:alias>
+                <tsre:alias>Брага</tsre:alias>
+                <tsre:alias>براغا</tsre:alias>
+                <tsre:alias>براگا</tsre:alias>
+                <tsre:alias>ब्रागा</tsre:alias>
+                <tsre:alias>ব্রাগা</tsre:alias>
+                <tsre:alias>ਬ੍ਰਾਗਾ</tsre:alias>
+                <tsre:alias>ብራጋ</tsre:alias>
+                <tsre:alias>ブラガ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.42311000,41.55140000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bougado</name>
+            <ExtendedData>
+                <tsre:placeId>2742051</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>21680</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.55180000,41.33979000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bomfim</name>
+            <ExtendedData>
+                <tsre:placeId>2742136</tsre:placeId>
+                <tsre:featureCode>PPLX</tsre:featureCode>
+                <tsre:population>22978</tsre:population>
+                <tsre:alias>Bonfim</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.58688000,41.15417000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Barcelos</name>
+            <ExtendedData>
+                <tsre:placeId>2742416</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>19085</tsre:population>
+                <tsre:alias>Barselos</tsre:alias>
+                <tsre:alias>Barselosas</tsre:alias>
+                <tsre:alias>Barselush</tsre:alias>
+                <tsre:alias>ba sai lu shen</tsre:alias>
+                <tsre:alias>barselosa</tsre:alias>
+                <tsre:alias>barselushi</tsre:alias>
+                <tsre:alias>barslws</tsre:alias>
+                <tsre:alias>barsylws</tsre:alias>
+                <tsre:alias>baruserosu</tsre:alias>
+                <tsre:alias>Барселос</tsre:alias>
+                <tsre:alias>Барселуш</tsre:alias>
+                <tsre:alias>بارسلوس</tsre:alias>
+                <tsre:alias>بارسيلوس</tsre:alias>
+                <tsre:alias>বার্সেলোস</tsre:alias>
+                <tsre:alias>ბარსელუში</tsre:alias>
+                <tsre:alias>バルセロス</tsre:alias>
+                <tsre:alias>巴塞卢什</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.61843000,41.53174000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bairro Novo</name>
+            <ExtendedData>
+                <tsre:placeId>2742493</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>32876</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.40725000,41.54317000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Baião</name>
+            <ExtendedData>
+                <tsre:placeId>2742504</tsre:placeId>
+                <tsre:asciiName>Baiao</tsre:asciiName>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>20522</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.03470000,41.16273000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Baguim do Monte</name>
+            <ExtendedData>
+                <tsre:placeId>2742506</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>15850</tsre:population>
+                <tsre:alias>Baguim</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.54118000,41.19203000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Aveiro</name>
+            <ExtendedData>
+                <tsre:placeId>2742611</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>80880</tsre:population>
+                <tsre:alias>Abeiro</tsre:alias>
+                <tsre:alias>Avejro</tsre:alias>
+                <tsre:alias>Avejru</tsre:alias>
+                <tsre:alias>ZAV</tsre:alias>
+                <tsre:alias>afyrw</tsre:alias>
+                <tsre:alias>ave'iro</tsre:alias>
+                <tsre:alias>avueiro</tsre:alias>
+                <tsre:alias>awyrw</tsre:alias>
+                <tsre:alias>ebhe'iro</tsre:alias>
+                <tsre:alias>ʿeveyiro</tsre:alias>
+                <tsre:alias>Αβέιρο</tsre:alias>
+                <tsre:alias>Авейру</tsre:alias>
+                <tsre:alias>Авејро</tsre:alias>
+                <tsre:alias>آویرو</tsre:alias>
+                <tsre:alias>أفيرو</tsre:alias>
+                <tsre:alias>اویرو</tsre:alias>
+                <tsre:alias>अवेइरो</tsre:alias>
+                <tsre:alias>এভেইরো</tsre:alias>
+                <tsre:alias>ਅਵੇਇਰੋ</tsre:alias>
+                <tsre:alias>አቬይሮ</tsre:alias>
+                <tsre:alias>アヴェイロ</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.64643000,40.64575000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Arouca</name>
+            <ExtendedData>
+                <tsre:placeId>2742700</tsre:placeId>
+                <tsre:featureCode>PPLA2</tsre:featureCode>
+                <tsre:population>21146</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.24488000,40.93057000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Arcos de Valdevez</name>
+            <ExtendedData>
+                <tsre:placeId>2742804</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>22847</tsre:population>
+                <tsre:alias>Arcos de Vale de Vez</tsre:alias>
+                <tsre:alias>Arcos de Valle de Vez</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.41905000,41.84668000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Alfena</name>
+            <ExtendedData>
+                <tsre:placeId>2743095</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>15211</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.52454000,41.23671000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Aldoar</name>
+            <ExtendedData>
+                <tsre:placeId>2743131</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>29085</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.66910000,41.16710000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Águas Santas</name>
+            <ExtendedData>
+                <tsre:placeId>2743304</tsre:placeId>
+                <tsre:asciiName>Aguas Santas</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>27686</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.57599000,41.21017000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Afurada de Baixo</name>
+            <ExtendedData>
+                <tsre:placeId>2743373</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>34332</tsre:population>
+                <tsre:alias>Afurada</tsre:alias>
+                <tsre:alias>Sao Pedro da Afurada</tsre:alias>
+                <tsre:alias>São Pedro da Afurada</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-8.64639000,41.14389000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Quinta Do Conde</name>
+            <ExtendedData>
+                <tsre:placeId>6559488</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>25606</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.04316000,38.56528000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Alfragide</name>
+            <ExtendedData>
+                <tsre:placeId>6930153</tsre:placeId>
+                <tsre:featureCode>PPLL</tsre:featureCode>
+                <tsre:population>17044</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.21920000,38.73203000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Alvalade</name>
+            <ExtendedData>
+                <tsre:placeId>6930162</tsre:placeId>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>31813</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.14397000,38.75328000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ponta Delgada</name>
+            <ExtendedData>
+                <tsre:placeId>6941014</tsre:placeId>
+                <tsre:featureCode>PPLA</tsre:featureCode>
+                <tsre:population>20056</tsre:population>
+                <tsre:alias>PDL</tsre:alias>
+                <tsre:alias>Ponta Delgada (Azores)</tsre:alias>
+                <tsre:alias>Ponta Ntelgada</tsre:alias>
+                <tsre:alias>Ponta-Dehlgada</tsre:alias>
+                <tsre:alias>Ponta-Delgada</tsre:alias>
+                <tsre:alias>Pontae-Delgadae</tsre:alias>
+                <tsre:alias>bwnta dylghada</tsre:alias>
+                <tsre:alias>peng ta de er jia da</tsre:alias>
+                <tsre:alias>ponta dailagada</tsre:alias>
+                <tsre:alias>ponta delagada</tsre:alias>
+                <tsre:alias>pontadelgada</tsre:alias>
+                <tsre:alias>pwnta dlgada</tsre:alias>
+                <tsre:alias>pwnta ڈylgada</tsre:alias>
+                <tsre:alias>pwnta ډylګada</tsre:alias>
+                <tsre:alias>pwnth dlgdh</tsre:alias>
+                <tsre:alias>Πόντα Ντελγάδα</tsre:alias>
+                <tsre:alias>Понтæ-Делгадæ</tsre:alias>
+                <tsre:alias>Понта Делгада</tsre:alias>
+                <tsre:alias>Понта-Делгада</tsre:alias>
+                <tsre:alias>Понта-Дэлгада</tsre:alias>
+                <tsre:alias>פונטה דלגדה</tsre:alias>
+                <tsre:alias>بونتا ديلغادا</tsre:alias>
+                <tsre:alias>پونتا دلگادا</tsre:alias>
+                <tsre:alias>پونتا ڈیلگادا</tsre:alias>
+                <tsre:alias>پونتا ډیلګادا</tsre:alias>
+                <tsre:alias>पोन्ता डेलगाडा</tsre:alias>
+                <tsre:alias>পোন্তা ডেলগাডা</tsre:alias>
+                <tsre:alias>ਪੋਂਤਾ ਡੈਲਗਾਡਾ</tsre:alias>
+                <tsre:alias>ปงตาแดลกาดา</tsre:alias>
+                <tsre:alias>პონტა-დელგადა</tsre:alias>
+                <tsre:alias>ፖnita deልgada</tsre:alias>
+                <tsre:alias>ፖንታ ዴልጋዳ</tsre:alias>
+                <tsre:alias>ポンタ・デルガダ</tsre:alias>
+                <tsre:alias>蓬塔德爾加達</tsre:alias>
+                <tsre:alias>폰타델가다</tsre:alias>
+            </ExtendedData>
+            <Point>
+                <coordinates>-25.66874000,37.73952000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>São Jorge de Arroios</name>
+            <ExtendedData>
+                <tsre:placeId>6946669</tsre:placeId>
+                <tsre:asciiName>Sao Jorge de Arroios</tsre:asciiName>
+                <tsre:featureCode>PPLX</tsre:featureCode>
+                <tsre:population>22990</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.13806000,38.72890000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Azeitão</name>
+            <ExtendedData>
+                <tsre:placeId>11808241</tsre:placeId>
+                <tsre:asciiName>Azeitao</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>18877</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.01390000,38.51919000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Parque das Nações</name>
+            <ExtendedData>
+                <tsre:placeId>11886964</tsre:placeId>
+                <tsre:asciiName>Parque das Nacoes</tsre:asciiName>
+                <tsre:featureCode>PPL</tsre:featureCode>
+                <tsre:population>22382</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.09632000,38.76908000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Cidade Universitária</name>
+            <ExtendedData>
+                <tsre:placeId>12776117</tsre:placeId>
+                <tsre:asciiName>Cidade Universitaria</tsre:asciiName>
+                <tsre:featureCode>PPLX</tsre:featureCode>
+                <tsre:population>37000</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.15917000,38.75199000,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Campo De Ourique</name>
+            <ExtendedData>
+                <tsre:placeId>12777908</tsre:placeId>
+                <tsre:featureCode>PPLX</tsre:featureCode>
+                <tsre:population>22140</tsre:population>
+            </ExtendedData>
+            <Point>
+                <coordinates>-9.16738000,38.72134000,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
