@@ -1,0 +1,22 @@
+CP serie 450 SOREFAME/ROLLS ROYCE - GOP
+
+V 1.1  31-07-2004
+
+Thecnical Data
+	Distance Levels
+	2000m - 3088 polygons
+
+==================================================================
+
+Model: Paulo Almeida CP Virtual ©2003
+livery: Paulo Almeida CP Virtual ©2003
+
+www.cpvirtual.org
+webmaster@cpvirtual.org
+
+Veja o ficheiro Tutorial.htm em:
+See the file Tutorial.htm in :
+..\Train Simulator\trains\trainsets\cp0450
+
+
+==================================================================
