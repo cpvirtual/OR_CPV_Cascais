@@ -1,0 +1,50 @@
+                                  VAPOR3D
+
+                      http://www.punchinout.com/vapor3d
+
+----------------------------------------------------------------------------------
+                             SIMCA 1000 (versión 1.0)
+----------------------------------------------------------------------------------
+Modelo del clásico SIMCA 1000, con sombra, luces, LOD a 800 m y nivel de detalle 7
+                      Modelo 3d y texturas: A.Asensio (Antuan)
+----------------------------------------------------------------------------------
+
+El modelo, aunque puede ser utilizado como objeto estático, está construído 
+especialmente para ser incluído en el archivo CARSPAWN.DAT como 
+vehículo móvil en las carreteras de una ruta, añadiendo la siguiente línea 
+al archivo:
+
+CarSpawnerItem( "smca1000.s" 8 )
+
+(Y sumando un número al que aparece arriba del archivo CARSPAWN.DAT)
+
+Para ser incluído como objeto estático, hay que incluir las líneas 
+siguientes en el archivo *.ref de la ruta:
+
+
+Static (
+    Class           ( Vehiculos )
+    Filename        ( smca1000.s )
+    Align           ( None )
+    Description     ( "Simca 1000" )
+)
+----------------------------------------------------------------------------------
+
+Los archivos *.s y *sd deben ser ubicados en la carpeta SHAPES, mientras que los 
+archivos *.ace tienen que ser colocados en la carpeta TEXTURES.
+
+Éste modelo se puede incluir en cualquier ruta FREEWARE libremente. En el caso de ser
+publicada, debe mencionarse en su documentación a su autor y la web VAPOR3D, siempre 
+y cuando ésa ruta no sea distribuída comercialmente ó a través de ningún servidor que 
+cobre algún tipo de cuotas a los usuarios.
+
+Su inclusión en rutas comerciales NO está permitida.
+
+El deseo de su autor es que no se modifique el objeto de ningún modo, ni sus texturas
+ni su modelo 3d sin permiso expreso del autor.
+
+Dedicado a Pepico el taxista.
+
+Si te ha gustado y deseas agradecérmelo, puedes hacer una donación a través de Paypal, y/o hacer click en los anuncios Google de mi web MSTS, Vapor 3d. Muchas Gracias.
+
+                      Copyright 2006 ©A.Asensio-VAPOR3D
