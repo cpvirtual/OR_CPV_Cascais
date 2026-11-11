@@ -1,7 +1,5 @@
 # OR_CPV_Cascais
  Cascais Route for Open Rails
- 
- ALL CONTENT FOR TESTING PURPOSES ONLY
 
 ![Cascais](/cascais.jpg)
 
