@@ -1,0 +1,12 @@
+# CASCAIS 1961
+#==============================Passageiros
+hi61-ascendentes.timetable_or
+hi61-descendentes.timetable_or
+#==============================Mercadorias
+#hi61-mercadorias.timetable-or
+#==============================Rotacoes e manobras
+#hi61-rotacoes.timetable-or
+#hi61-especiais.timetable_or
+#==============================Estaticos
+#hi61-static.timetable-or
+hv01-observadores.timetable_or
